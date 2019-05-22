@@ -522,11 +522,10 @@ a:hover, a:active, a:focus {
 .cke_contents ol li {
 
 	font-weight: normal;
-    color: #ea368e;
+    color: #00AC81;
     padding-left: 45px;
     font-size: 2.3rem;
     font-family:'Conv_AndikaNewBasic-Bold',Sans-Serif;
-
 	list-style-type: none;
 	padding-top: 5px;
 	margin-bottom: 20px;
@@ -544,7 +543,7 @@ a:hover, a:active, a:focus {
 
     content: counter(bck-li-counter);
     color: #FFCF01;
-    background: #EA368E;
+    background: #00AC81;
     padding: 0px 2px 2px 2px;
     border-radius: 100%;
     position: absolute;
