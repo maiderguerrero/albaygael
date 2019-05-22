@@ -1451,18 +1451,61 @@ a:hover, a:active, a:focus {
 	margin-top: 0px;
 }
 
-.item-container .icon-plus-1:before {
-	background-image: url(images/icono_plus_1.png);
+.item-container .icon-escucha:before {
+	background-image: url(images/icono_escucha.png);
 }
 
-.item-container .icon-plus-2:before {
-	background-image: url(images/icono_plus_2.png);
+.item-container .icon-habla:before {
+	background-image: url(images/icono_habla.png);
 }
 
-.item-container .icon-plus-3:before {
-	background-image: url(images/icono_plus_3.png);
+.item-container .icon-repite:before {
+	background-image: url(images/icono_repite.png);
 }
 
+.item-container .icon-escribe:before {
+	background-image: url(images/icono_escribe.png);
+}
+
+.item-container .icon-dibuja:before {
+	background-image: url(images/icono_dibuja.png);
+}
+
+.item-container .icon-recorta:before {
+	background-image: url(images/icono_recorta.png);
+}
+
+.item-container .icon-mira:before {
+	background-image: url(images/icono_mira.png);
+}
+
+.item-container .icon-relaciona:before {
+	background-image: url(images/icono_relaciona.png);
+}
+
+.item-container .icon-juega:before {
+	background-image: url(images/icono_juega.png);
+}
+
+.item-container .icon-representa:before {
+	background-image: url(images/icono_representa.png);
+}
+
+.item-container .icon-canta:before {
+	background-image: url(images/icono_canta.png);
+}
+
+.item-container .icon-senala:before {
+	background-image: url(images/icono_senala.png);
+}
+
+.item-container .icon-lee:before {
+	background-image: url(images/icono_lee.png);
+}
+
+.item-container .icon-hablacompaneros:before {
+	background-image: url(images/icono_habla_companeros.png);
+}
 
 /* Forms */
 
