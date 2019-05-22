@@ -955,11 +955,14 @@ a:hover, a:active, a:focus {
 
 /* Caja 1 */
 .bck-box.bck-box1 {
-	border: none;
-	background: #C3E4E7;
-	border-radius: 20px;
-	margin-bottom: 30px;
-	padding: 15px 20px 30px 15px;
+    border: 3px solid #FFCF01;
+    background: #fff;
+    border-radius: 50%;
+    margin-bottom: 30px;
+    padding: 40px;
+    text-align: center;
+    -webkit-box-shadow: 10px 5px 5px 1px #D0D0D0;
+    box-shadow: 5px 8px 12px 0px #D0D0D0;
 }
 
 .bck-box1 .bck-title {
@@ -989,11 +992,15 @@ a:hover, a:active, a:focus {
 
 /* Caja 2 */
 .bck-box.bck-box2 {
-	border: none;
-	background: #EEF4DE;
-	border-radius: 20px;
-	margin-bottom: 30px;
-	padding: 15px 20px 30px 15px;
+    border: 3px solid #EA368E;
+    background: #fff;
+    border-radius: 50%;
+    margin-bottom: 30px;
+    padding: 40px;
+    text-align: center;
+    -webkit-box-shadow: 10px 5px 5px 1px #D0D0D0;
+    box-shadow: 5px 8px 12px 0px #D0D0D0;
+}
 }
 
 .bck-box2 .bck-title {
