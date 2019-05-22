@@ -480,7 +480,9 @@ a:hover, a:active, a:focus {
 /*LISTA ORDENADA 1*/
 
 .content .bck-ol1 li,
-.cke_contents .bck-ol1 li {
+.cke_contents .bck-ol1 li,
+.content ol li,
+.cke_contents ol li {
 	font-weight: normal;
     color: #ea368e;
     padding-left: 45px;
@@ -490,7 +492,9 @@ a:hover, a:active, a:focus {
 
 
 .content .bck-ol1 li:before,
-.cke_contents .bck-ol1 li:before {
+.cke_contents .bck-ol1 li:before,
+.content ol li:before,
+.cke_contents ol li:before {
 	content: counter(bck-li-counter);
     color: #FFCF01;
     background: #EA368E;
