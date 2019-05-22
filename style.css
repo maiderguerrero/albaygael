@@ -494,7 +494,7 @@ a:hover, a:active, a:focus {
 	content: counter(bck-li-counter);
     color: #FFCF01;
     background: #EA368E;
-    padding: 2px;
+    padding: 0px 2px 2px 2px;
     border-radius: 100%;
     position: absolute;
     top: 4px;
