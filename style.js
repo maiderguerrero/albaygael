@@ -15,7 +15,7 @@
 				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title bck-title1'} },
 			
 
-				{ name: 'Énfasis Azul 1', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-1'} },
+				{ name: 'Énfasis Subrayado Amarillo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-1'} },
 				{ name: 'Énfasis Azul 2', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-2'} },
 				{ name: 'Énfasis Azul 3', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-3'} },
 				{ name: 'Énfasis Granate', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-4'} },
