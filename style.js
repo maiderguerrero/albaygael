@@ -59,9 +59,20 @@
 				{ name: 'Celda 8', element: 'td', attributes: { 'class': 'bck-td-8' } },
 
 			
-				{ name: 'Icono Plus 1', element: 'span', attributes: { 'class': 'icon icon-plus-1' } },
-				{ name: 'Icono Plus 2', element: 'span', attributes: { 'class': 'icon icon-plus-2' } },
-				{ name: 'Icono Plus 3', element: 'span', attributes: { 'class': 'icon icon-plus-3' } },
+				{ name: 'Icono Escucha', element: 'span', attributes: { 'class': 'icon icon-escucha' } },
+				{ name: 'Icono Habla', element: 'span', attributes: { 'class': 'icon icon-habla' } },
+				{ name: 'Icono Repite', element: 'span', attributes: { 'class': 'icon icon-repite' } },
+				{ name: 'Icono Escribe', element: 'span', attributes: { 'class': 'icon icon-escribe' } },
+				{ name: 'Icono Dibuja', element: 'span', attributes: { 'class': 'icon icon-dibuja' } },
+				{ name: 'Icono Recorta', element: 'span', attributes: { 'class': 'icon icon-recorta' } },
+				{ name: 'Icono Mira', element: 'span', attributes: { 'class': 'icon icon-mira' } },
+				{ name: 'Icono Relaciona', element: 'span', attributes: { 'class': 'icon icon-relaciona' } },
+				{ name: 'Icono Juega', element: 'span', attributes: { 'class': 'icon icon-juega' } },
+				{ name: 'Icono Representa', element: 'span', attributes: { 'class': 'icon icon-representa' } },
+				{ name: 'Icono Canta', element: 'span', attributes: { 'class': 'icon icon-canta' } },
+				{ name: 'Icono Señala', element: 'span', attributes: { 'class': 'icon icon-senala' } },
+				{ name: 'Icono Lee', element: 'span', attributes: { 'class': 'icon icon-lee' } },
+				{ name: 'Icono Habla con tus compañeros', element: 'span', attributes: { 'class': 'icon icon-hablacompaneros' } },
 				
 
 				{ name: 'Caja 1', type: 'widget', widget: 'blink_box', attributes: { 'class': 'bck-box bck-box1' } },
