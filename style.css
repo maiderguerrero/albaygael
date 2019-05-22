@@ -162,7 +162,7 @@
 
 	#actividad .player.audio {
 	    border-radius: 0px;
-	    background: url(images/iconoaudio.png) center center / cover;
+	    background: url(images/icono_audio.png) center center / cover;
 	}
 
 	@media screen and (max-width: 480px) {
@@ -1425,7 +1425,7 @@ a:hover, a:active, a:focus {
 /* Icons */
 
 #actividad .player.audio {
-	background: url(images/icono_audio_1.png) center center / cover;
+	background: url(images/icono_audio.png) center center / cover;
 }
 
 #actividad .seccion_rosa .player.audio {
