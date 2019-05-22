@@ -1,3 +1,16 @@
+/*Fuentes*/
+
+@font-face {
+	font-family: 'Conv_Plakkaat';
+	src: url('fonts/Plakkaat.eot');
+	src: local('☺'), 
+	url('fonts/Plakkaat.woff') format('woff'), 
+	url('fonts/Plakkaat.ttf') format('truetype'), 
+	url('fonts/Plakkaat.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
 /* General */
 
 	body.content_type_clase_albaygael {
@@ -456,39 +469,31 @@ a:hover, a:active, a:focus {
 /*LISTA ORDENADA 1*/
 
 .content .bck-ol1 li,
-.cke_contents .bck-ol1 li,
-.content ol li,
-.cke_contents ol li {
-	list-style-type: none;
-	padding-left: 50px;
-	padding-top: 5px;
-	margin-bottom: 20px;
-	counter-increment: bck-li-counter;
-	position: relative;
-	line-height: 1.1rem;
-	font-weight: bold;
+.cke_contents .bck-ol1 li {
+	font-weight: normal;
 	color: #333;
-}
+	padding-left: 70px;
+	}
 
 .content .bck-ol1 li:before,
-.cke_contents .bck-ol1 li:before,
-.content ol li:before,
-.cke_contents ol li:before {
-    content: counter(bck-li-counter);
-    color: #fff;
-    background: #00A1A8;
-    padding: 5px 0px 5px 0px;
-    border-radius: 20%;
+.cke_contents .bck-ol1 li:before {
+	content: counter(bck-li-counter);
+    color: #FFCF01;
+    background: #EA368E;
+    padding: 0px;
+    border-radius: 100%;
     position: absolute;
-    top: 0px;
-    left: 0px;
-    width: 40px;
+    top: 4px;
+    left: 40px;
+    width: 25px;
     text-align: center;
     height: auto;
-    font-size: 2.7rem;
-    text-shadow: 4px 5px 10px #000000ad;
-    /*transform: skew(-0.01turn, -188deg);*/
-
+    font-size: 1.7rem;
+    text-shadow: none;
+    transform: none;
+    margin-right: -10px;
+    font-weight: bold;
+    font-family:'Conv_Plakkaat',Sans-Serif;
 }
 
 /*LISTA ORDENADA 2*/
