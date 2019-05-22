@@ -498,7 +498,6 @@ a:hover, a:active, a:focus {
     padding: 0px 2px 2px 2px;
     border-radius: 100%;
     position: absolute;
-    top: 4px;
     left: 0px;
     width: 37px;
     text-align: center;
@@ -531,7 +530,6 @@ a:hover, a:active, a:focus {
     padding: 0px 2px 2px 2px;
     border-radius: 100%;
     position: absolute;
-    top: 4px;
     left: 0px;
     width: 37px;
     text-align: center;
