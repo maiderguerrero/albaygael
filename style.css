@@ -1128,6 +1128,7 @@ a:hover, a:active, a:focus {
 /* Caja 4 */
 .bck-box.bck-box4 {
 	border: none;
+	width: 60% !important;
     background: #EA368E;
     border-radius: 100%;
     text-align: center;
