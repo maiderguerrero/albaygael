@@ -22,6 +22,29 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'Conv_OpenDyslexic-Regular';
+	src: url('fonts/OpenDyslexic-Regular.eot');
+	src: local('☺'), 
+	url('fonts/OpenDyslexic-Regular.woff') format('woff'), 
+	url('fonts/OpenDyslexic-Regular.ttf') format('truetype'), 
+	url('fonts/OpenDyslexic-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_OpenDyslexic-Bold';
+	src: url('fonts/OpenDyslexic-Bold.eot');
+	src: local('☺'), 
+	url('fonts/OpenDyslexic-Bold.woff') format('woff'), 
+	url('fonts/OpenDyslexic-Bold.ttf') format('truetype'), 
+	url('fonts/OpenDyslexic-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
 /* General */
 
 	body.content_type_clase_albaygael {
@@ -977,6 +1000,7 @@ a:hover, a:active, a:focus {
     text-align: center;
     -webkit-box-shadow: 10px 5px 5px 1px #D0D0D0;
     box-shadow: 5px 8px 12px 0px #D0D0D0;
+    font-family:'Conv_OpenDyslexic-Regular',Sans-Serif;
 }
 
 .bck-box1 .bck-title {
@@ -1014,7 +1038,7 @@ a:hover, a:active, a:focus {
     text-align: center;
     -webkit-box-shadow: 10px 5px 5px 1px #D0D0D0;
     box-shadow: 5px 8px 12px 0px #D0D0D0;
-}
+    font-family:'Conv_OpenDyslexic-Bold',Sans-Serif;
 }
 
 .bck-box2 .bck-title {
