@@ -1258,13 +1258,14 @@ a:hover, a:active, a:focus {
 	background: #FFCF01;
 	margin-bottom: 30px;
 	padding: 15px 20px 30px 25px;
+	border-radius: 0px;
 }
 
 .bck-box7 .bck-title {
 	color: #fff;
     background: #EA368E;
     width: fit-content;
-    padding: 30px 15px 0px 15px;
+    padding: 30px 25px 0px 25px;
     font-family: 'Conv_Plakkaat',Sans-Serif;
     font-size: 4rem;
     margin-left: -50px;
