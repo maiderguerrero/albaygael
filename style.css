@@ -1522,7 +1522,10 @@ a:hover, a:active, a:focus {
 }
 
 .bck-enfasis-3 {
-	color: #3855A3;
+	background-color: #00AC81;
+	color: #FFCF01;
+	font-size: 2.1rem;
+    font-family:'Conv_AndikaNewBasic-Bold',Sans-Serif;
 }
 
 .bck-enfasis-4 {
