@@ -588,32 +588,37 @@ a:hover, a:active, a:focus {
 
 .content .bck-ol3 li,
 .cke_contents .bck-ol3 li {
-	list-style-type: none;
-	padding-left: 50px;
-	padding-top: 5px;
-	margin-bottom: 20px;
-	counter-increment: bck-li-counter;
-	position: relative;
-	line-height: 1.1rem;
-	font-weight: bold;
+	font-weight: normal;
 	color: #333;
-}
+	margin-left: -10px;
+	padding-left: 75px;
+	}
 
 .content .bck-ol3 li:before,
 .cke_contents .bck-ol3 li:before {
-    content: counter(bck-li-counter);
-    color: #fff;
-    background: #B9D26B;
-    padding: 5px 0px 5px 0px;
-    border-radius: 20%;
+    content: counter(bck-li-counter) ".";
     position: absolute;
     top: 0px;
+    left: 40px;
+    display: inline-block;
     width: 40px;
+    height: 0px;
+    -webkit-box-shadow: 0px;
+    -moz-box-shadow: 2px 2px 2px 0px rgba(174,87,30,1);
+    box-shadow: 0px;
+    border: 0px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 0px;
+    background: transparent;
+    color: #00A1A8;
+    font-size: 1.9rem;
+    font-weight: bold;
     text-align: center;
-    height: auto;
-    font-size: 2.7rem;
-    text-shadow: 4px 5px 10px #000000ad;
-    /*transform: skew(-0.01turn, -188deg);*/
+    text-shadow: none;
+    transform: none;
+    margin-right: -10px;
+    font-family:'Conv_OpenDyslexic-Bold',Sans-Serif;
 
 }
 
