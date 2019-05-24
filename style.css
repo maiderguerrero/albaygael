@@ -1536,8 +1536,7 @@ a:hover, a:active, a:focus {
 .bck-enfasis-4 {
 	border: 2px solid #FFCF01;
     border-radius: 60%;
-    margin: 0px 3px 0px 3px;
-    padding: 3px;
+    padding: 3px 5px 3px 5px;
 }
 
 .bck-enfasis-5 {
