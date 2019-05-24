@@ -1177,12 +1177,13 @@ a:hover, a:active, a:focus {
 /* Caja 5 */
 .bck-box.bck-box5 {
 	border: none;
-	background: #00AC81;
-	border-radius: 20px;
-	margin-bottom: 30px;
-	padding: 20px;
-	color: #fff;
-	font-size: 2rem;
+	width: 60% !important;
+    background: #00AC81;
+    border-radius: 100%;
+    text-align: center;
+    color: #fff;
+    padding: 40px;
+    font-size: 2rem;
     font-family:'Conv_OpenDyslexic-Regular',Sans-Serif;
 }
 
@@ -1213,10 +1214,14 @@ a:hover, a:active, a:focus {
 /*Caja 6*/
 .bck-box.bck-box6 {
 	border: none;
-	background: #F7FAEF;
+	background: #00AC81;
 	border-radius: 20px;
 	margin-bottom: 30px;
-	padding: 15px 20px 30px 25px;
+	padding: 20px;
+	color: #fff;
+	font-size: 2rem;
+    font-family:'Conv_OpenDyslexic-Regular',Sans-Serif;
+
 }
 
 .bck-box6 .bck-title {
