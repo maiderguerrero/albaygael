@@ -509,7 +509,7 @@ a:hover, a:active, a:focus {
 	font-weight: normal;
     color: #ea368e;
     padding-left: 45px;
-    font-size: 2rem;
+    font-size: 2.1rem;
     font-family:'Conv_AndikaNewBasic-Bold',Sans-Serif;
 }
 
@@ -526,10 +526,10 @@ a:hover, a:active, a:focus {
     position: absolute;
     margin-top: 4px;
     left: 0px;
-    width: 37px;
+    width: 33px;
     text-align: center;
     height: auto;
-    font-size: 2rem;
+    font-size: 2.1rem;
     text-shadow: none;
     transform: none;
     margin-right: -10px;
@@ -547,7 +547,7 @@ a:hover, a:active, a:focus {
 	font-weight: normal;
     color: #00AC81;
     padding-left: 45px;
-    font-size: 2rem;
+    font-size: 2.1rem;
     font-family:'Conv_AndikaNewBasic-Bold',Sans-Serif;
 	list-style-type: none;
 	padding-top: 5px;
@@ -572,10 +572,10 @@ a:hover, a:active, a:focus {
     position: absolute;
     margin-top: 4px;
     left: 0px;
-    width: 37px;
+    width: 33px;
     text-align: center;
     height: auto;
-    font-size: 2rem;
+    font-size: 2.1rem;
     text-shadow: none;
     transform: none;
     margin-right: -10px;
