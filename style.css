@@ -672,34 +672,31 @@ a:hover, a:active, a:focus {
 	font-weight: normal;
 	color: #333;
 	margin-left: -10px;
-	padding-left: 75px;
+	padding-left: 80px;
+	font-size: 2.3rem;
+	font-family: 'Conv_OpenDyslexic-Regular',Sans-Serif;
 	}
 
 
 .content .bck-ol5 li:before,
 .cke_contents .bck-ol5 li:before {
-    content: counter(bck-li-counter) ".";
+	content: counter(bck-li-counter, lower-alpha) ".";
     position: absolute;
-    top: 0px;
+    margin-top: 4px;
     left: 40px;
     display: inline-block;
     width: 40px;
     height: 0px;
-    -webkit-box-shadow: 0px;
-    -moz-box-shadow: 2px 2px 2px 0px rgba(174,87,30,1);
-    box-shadow: 0px;
     border: 0px;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 0px;
     background: transparent;
-    color: #E72186;
-    font-size: 1.9rem;
+    color: #333;
+    font-size: 2.3rem;
     font-weight: bold;
     text-align: center;
-    margin-right: -10px;
     text-shadow: none;
     transform: none;
+    margin-right: -10px;
+    font-family: 'Conv_OpenDyslexic-Bold',Sans-Serif;
     }
 
 
