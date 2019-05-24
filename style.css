@@ -622,9 +622,11 @@ a:hover, a:active, a:focus {
 .content .bck-ol4 li,
 .cke_contents .bck-ol4 li {
 	font-weight: normal;
-	color: #333;
+	color: #fff;
 	margin-left: -10px;
-	padding-left: 75px;
+	padding-left: 80px;
+	font-size: 2.3rem;
+	font-family: 'Conv_OpenDyslexic-Regular',Sans-Serif;
 	}
 
 
@@ -632,26 +634,21 @@ a:hover, a:active, a:focus {
 .cke_contents .bck-ol4 li:before {
     content: counter(bck-li-counter) ".";
     position: absolute;
-    top: 0px;
+    margin-top: 4px;
     left: 40px;
     display: inline-block;
     width: 40px;
     height: 0px;
-    -webkit-box-shadow: 0px;
-    -moz-box-shadow: 2px 2px 2px 0px rgba(174,87,30,1);
-    box-shadow: 0px;
     border: 0px;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    border-radius: 0px;
     background: transparent;
-    color: #00A1A8;
-    font-size: 1.9rem;
+    color: #fff;
+    font-size: 2.3rem;
     font-weight: bold;
     text-align: center;
     text-shadow: none;
     transform: none;
     margin-right: -10px;
+    font-family: 'Conv_OpenDyslexic-Bold',Sans-Serif;
     }
 
 /*LISTA ORDENADA 5*/
