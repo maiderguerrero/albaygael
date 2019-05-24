@@ -1132,6 +1132,7 @@ a:hover, a:active, a:focus {
     border-radius: 100%;
     text-align: center;
     color: #fff;
+    padding: 40px;
     font-size: 2rem;
     font-family:'Conv_OpenDyslexic-Regular',Sans-Serif;
 }
