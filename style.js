@@ -16,7 +16,7 @@
 			
 
 				{ name: 'Énfasis Subrayado Amarillo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-1'} },
-				{ name: 'Énfasis Azul 2', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-2'} },
+				{ name: 'Énfasis Amarillo con fondo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-2'} },
 				{ name: 'Énfasis Azul 3', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-3'} },
 				{ name: 'Énfasis Granate', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-4'} },
 				{ name: 'Énfasis Verde', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-5'} },
