@@ -591,14 +591,16 @@ a:hover, a:active, a:focus {
 	font-weight: normal;
 	color: #333;
 	margin-left: -10px;
-	padding-left: 75px;
+	padding-left: 80px;
+	font-size: 1.8rem;
+	font-family: 'Conv_OpenDyslexic-Regular',Sans-Serif;
 	}
 
 .content .bck-ol3 li:before,
 .cke_contents .bck-ol3 li:before {
-        content: counter(bck-li-counter) ".";
+    content: counter(bck-li-counter) ".";
     position: absolute;
-    margin-top: 5px;
+    margin-top: 6px;
     left: 40px;
     display: inline-block;
     width: 40px;
