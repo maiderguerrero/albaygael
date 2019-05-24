@@ -1254,6 +1254,14 @@ a:hover, a:active, a:focus {
 
 /*Caja 7*/
 .bck-box.bck-box7 {
+	border: none;
+	background: #F7FAEF;
+	border-radius: 20px;
+	margin-bottom: 30px;
+	padding: 15px 20px 30px 25px;
+}
+
+.bck-box7 .bck-title {
 	color: #fff;
     background: #EA368E;
     width: fit-content;
@@ -1264,15 +1272,8 @@ a:hover, a:active, a:focus {
     margin-top: -15px;
 }
 
-.bck-box7 .bck-title {
-	    color: #fff;
-    font-size: 2rem;
-    /* font-weight: 600; */
-    background: #EA368E;
-    width: fit-content;
-    padding: 30px 15px 0px 15px;
-    font-family: 'Conv_Plakkaat',Sans-Serif;
-    font-size: 4rem;
+.bck-box7 .bck-content{
+	background: #FFCF01;
 }
 
 /*
