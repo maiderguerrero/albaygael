@@ -13,6 +13,7 @@
 			styles: [
 
 				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title bck-title1'} },
+				{ name: 'Título 2', element: 'h4', attributes: { 'class': 'bck-title bck-title2'} },
 			
 
 				{ name: 'Énfasis Subrayado Amarillo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-1'} },
