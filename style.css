@@ -1000,6 +1000,7 @@ a:hover, a:active, a:focus {
     text-align: center;
     -webkit-box-shadow: 10px 5px 5px 1px #D0D0D0;
     box-shadow: 5px 8px 12px 0px #D0D0D0;
+    font-size: 2rem;
     font-family:'Conv_OpenDyslexic-Regular',Sans-Serif;
 }
 
@@ -1038,6 +1039,7 @@ a:hover, a:active, a:focus {
     text-align: center;
     -webkit-box-shadow: 10px 5px 5px 1px #D0D0D0;
     box-shadow: 5px 8px 12px 0px #D0D0D0;
+    font-size: 2rem;
     font-family:'Conv_OpenDyslexic-Bold',Sans-Serif;
 }
 
