@@ -481,6 +481,10 @@ a:hover, a:active, a:focus {
 	font-weight: bold;
 	margin-bottom: 30px;
     font-size: 2.3rem;
+    padding: 10px;
+    width: fit-content;
+    border: 4px solid #FFCF01;
+    border-left: 255px 15px 225px 15px/15px 225px 15px 255px;
 	font-family: 'Conv_OpenDyslexic-Regular',Sans-Serif;   
 }
 
