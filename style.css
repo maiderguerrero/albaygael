@@ -1166,10 +1166,13 @@ a:hover, a:active, a:focus {
 /* Caja 5 */
 .bck-box.bck-box5 {
 	border: none;
-	background: #FDEFF6;
+	background: #00AC81;
 	border-radius: 20px;
 	margin-bottom: 30px;
 	padding: 15px 20px 30px 15px;
+	color: #fff;
+	font-size: 2rem;
+    font-family:'Conv_OpenDyslexic-Regular',Sans-Serif;
 }
 
 .bck-box5 .bck-title {
