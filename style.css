@@ -1128,10 +1128,12 @@ a:hover, a:active, a:focus {
 /* Caja 4 */
 .bck-box.bck-box4 {
 	border: none;
-	background: #FEF5ED;
-	border-radius: 20px;
-	margin-top: 30px;
-	padding: 15px 20px 30px 15px;
+    background: #EA368E;
+    border-radius: 100%;
+    text-align: center;
+    color: #fff;
+    font-size: 2rem;
+    font-family:'Conv_OpenDyslexic-Regular',Sans-Serif;
 }
 
 .bck-box4 .bck-title {
