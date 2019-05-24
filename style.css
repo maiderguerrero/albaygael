@@ -846,6 +846,19 @@ a:hover, a:active, a:focus {
 
 /*LISTA DESORDENADA 1*/
 
+
+.texto_curso .bck-ul1 li, 
+.workspace .bck-ul1 li ul li, 
+.cke_contents .bck-ul1 li {
+	font-weight: normal;
+	color: #333;
+	margin-left: -10px;
+	padding-left: 80px;
+	font-size: 2.3rem;
+	font-family: 'Conv_OpenDyslexic-Regular',Sans-Serif;
+
+}
+
 .texto_curso .bck-ul1 li:before, 
 .workspace .bck-ul1 li ul li:before, 
 .cke_contents .bck-ul1 li:before {
@@ -855,6 +868,8 @@ a:hover, a:active, a:focus {
     margin-left: -20px;
     font-family: 'Conv_OpenDyslexic-Regular',Sans-Serif; 
 }
+
+
 
 /*LISTA DESORDENADA 2*/
 
