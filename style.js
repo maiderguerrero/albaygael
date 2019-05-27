@@ -24,6 +24,12 @@
 				{ name: 'Énfasis Rojo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-5'} },
 				{ name: 'Énfasis Morado', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-6'} },
 				{ name: 'Énfasis Verde', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-7'} },
+				{ name: 'Énfasis Aguamarina', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-8'} },
+				{ name: 'Énfasis Azul', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-9'} },
+				{ name: 'Énfasis Rojo con fondo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-10'} },
+				{ name: 'Énfasis Azul con fondo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-11'} },
+				{ name: 'Énfasis Aguamarina con fondo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-12'} },
+
 
 				{ name: 'Lista ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol1' } },
 				{ name: 'Lista ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol2' } },
