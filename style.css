@@ -1507,7 +1507,9 @@ a:hover, a:active, a:focus {
 
 .bck-box12 .bck-content {
 	background-color: #fff;
-	border: 2px solid #EA368E;
+	border-bottom: 2px solid #EA368E;
+	border-left: 2px solid #EA368E;
+	border-right: 2px solid #EA368E;
 	padding: 15px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
