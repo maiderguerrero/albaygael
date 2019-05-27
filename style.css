@@ -1489,28 +1489,21 @@ a:hover, a:active, a:focus {
 
 .bck-box.bck-box12 {
 	background-color: #fff;
-    border-top: 5px solid #B8D171;
-    border-right: 5px solid #B8D171;
-    border-bottom: 3px solid #B8D171;
-    border-left: 50px solid #B8D171;
-    border-radius: 20px;
-    margin-bottom: 40px;
+	padding: 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	border: 2px solid #EA368E;
 
 }
 
-.bck-box.bck-box12:before {
-	content: " ";
-	background-image: url(images/abonne-toi_3.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    position: absolute;
-    left: 25px;
-    margin-top: 10px;
-    z-index: 100;
-    padding: 70px;
-    display: block;
+.bck-box12 .bck-title{
+	background-color: #F3A1C1;
+	margin-bottom: 2px solid #EA368E;
+	text-align: center;
 
 }
+
+
 
 /*Caja 13*/
 
