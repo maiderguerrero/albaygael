@@ -1592,6 +1592,29 @@ a:hover, a:active, a:focus {
 	color: #75AF5E;
 }
 
+.bck-enfasis-8 {
+	color: #00AA8A;
+}
+
+.bck-enfasis-9 {
+	color: #00AEEF;
+}
+
+.bck-enfasis-10 {
+	color: #EE2E24;
+	background: #FDD4C2;
+}
+
+.bck-enfasis-11 {
+	color: #00AEEF;
+	background: #C7EAFB;
+}
+
+.bck-enfasis-12 {
+	color: #00AA8A;
+	background: #CDE9E1;
+}
+
 
 /* Icons */
 
