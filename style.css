@@ -12,6 +12,17 @@
 }
 
 @font-face {
+	font-family: 'Conv_AndikaNewBasic-Regular';
+	src: url('fonts/AndikaNewBasic-Regular.eot');
+	src: local('☺'), 
+	url('fonts/AndikaNewBasic-Regular.woff') format('woff'), 
+	url('fonts/AndikaNewBasic-Regular.ttf') format('truetype'), 
+	url('fonts/AndikaNewBasic-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
 	font-family: 'Conv_AndikaNewBasic-Bold';
 	src: url('fonts/AndikaNewBasic-Bold.eot');
 	src: local('☺'), 
