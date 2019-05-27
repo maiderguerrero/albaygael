@@ -483,6 +483,7 @@ a:hover, a:active, a:focus {
 	color: #FAD8E4;
 	font-size: 3.5rem;
 	-webkit-text-stroke: #EA368E 2px;
+	margin-bottom: 20px;
        
 }
 
