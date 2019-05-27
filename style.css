@@ -1630,6 +1630,27 @@ a:hover, a:active, a:focus {
     font-family: 'Conv_AndikaNewBasic-Regular';
 }
 
+/*Caja 18*/
+
+.bck-box.bck-box18 {
+	background: #DAEDE4;
+	padding: 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	border: 2px solid #00AC81;
+}
+
+.bck-box18 .bck-title {
+	font-family: 'Conv_AndikaNewBasic-Bold';
+	padding-left: 10px;
+
+}
+
+.bck-box18 .bck-content {
+    padding: 5px 5px 10px 10px;
+    font-family: 'Conv_AndikaNewBasic-Regular';
+}
+
 
 /*TABLA 1*/
 
