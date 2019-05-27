@@ -1315,7 +1315,7 @@ a:hover, a:active, a:focus {
 
 .bck-box8 .bck-title {
 	color: #fff;
-    background: #EA368E;
+    background: #00AC81;
     width: fit-content;
     padding: 30px 25px 0px 25px;
     font-family: 'Conv_Plakkaat',Sans-Serif;
@@ -1327,9 +1327,9 @@ a:hover, a:active, a:focus {
 .bck-box8 .bck-content{
 	background: #FFCF01;
 	font-family: 'Conv_ChelseaMarket-Regular';
-	color: #F3A1C1;
+	color: #8ACFB8;
 	font-size: 5.5rem;
-	-webkit-text-stroke: #ea368e 2.5px;
+	-webkit-text-stroke: #00AC81 2.5px;
 }
 
 
