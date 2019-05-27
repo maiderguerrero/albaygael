@@ -1603,16 +1603,22 @@ a:hover, a:active, a:focus {
 .bck-enfasis-10 {
 	color: #EE2E24;
 	background: #FDD4C2;
+	border-radius: 100%;
+    padding: 5px 8px;
 }
 
 .bck-enfasis-11 {
 	color: #00AEEF;
 	background: #C7EAFB;
+	border-radius: 100%;
+    padding: 5px 8px;
 }
 
 .bck-enfasis-12 {
 	color: #00AA8A;
 	background: #CDE9E1;
+	border-radius: 100%;
+    padding: 5px 8px;
 }
 
 
