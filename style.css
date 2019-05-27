@@ -494,7 +494,7 @@ a:hover, a:active, a:focus {
 	color: #FAD8E4;
 	font-size: 3.5rem;
 	-webkit-text-stroke: #EA368E 2px;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
        
 }
 
@@ -517,7 +517,7 @@ a:hover, a:active, a:focus {
 	color: #EA368E;
     font-family: 'Conv_Plakkaat',Sans-Serif;
     font-size: 4rem;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 
 }
 
@@ -528,7 +528,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
     width: fit-content;
     padding: 10px 10px 0px 10px;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     font-size: 2.5rem;
     -webkit-box-shadow: 20px -5px 15px 0 #D7D7D7;
 	box-shadow: 20px -5px 15px 0 #D7D7D7;
@@ -541,7 +541,7 @@ a:hover, a:active, a:focus {
 	text-align: center;
     width: fit-content;
     padding: 10px 10px 0px 10px;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     font-size: 2.5rem;
     -webkit-box-shadow: 20px -5px 15px 0 #D7D7D7;
 	box-shadow: 20px -5px 15px 0 #D7D7D7;
@@ -555,7 +555,7 @@ a:hover, a:active, a:focus {
     width: fit-content;
     padding: 10px 25px 0px 25px;
     font-size: 2.5rem;
-    margin: 25px 0 15px 80px;
+    margin: 25px 0 30px 80px;
     -webkit-box-shadow: 20px -5px 15px 0 #D7D7D7;
 	box-shadow: 20px -5px 15px 0 #D7D7D7;
 }
@@ -586,7 +586,7 @@ a:hover, a:active, a:focus {
     width: fit-content;
     padding: 10px 25px 0px 25px;
     font-size: 2.5rem;
-    margin: 25px 0 15px 80px;
+    margin: 25px 0 30px 80px;
     -webkit-box-shadow: 20px -5px 15px 0 #D7D7D7;
 	box-shadow: 20px -5px 15px 0 #D7D7D7;
 }
