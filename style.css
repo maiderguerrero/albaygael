@@ -1557,10 +1557,6 @@ a:hover, a:active, a:focus {
     margin-bottom: 40px;
     -webkit-box-shadow: 5px 8px 10px 5px #D7D7D7;
 	box-shadow: 5px 5px 8px 5px #D7D7D7;
-    -webkit-transform: rotate(-1.5deg);
-    -moz-transform: rotate(-1.5deg);
-    -ms-transform: rotate(-1.5deg);
-    transform: rotate(-1.5deg);
 }
 
 .bck-box14 .bck-title {
