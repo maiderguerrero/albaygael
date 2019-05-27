@@ -18,6 +18,7 @@
 				{ name: 'Título 4', element: 'h4', attributes: { 'class': 'bck-title bck-title4'} },
 				{ name: 'Título 5', element: 'h4', attributes: { 'class': 'bck-title bck-title5'} },
 				{ name: 'Título 6', element: 'h4', attributes: { 'class': 'bck-title bck-title6'} },
+				{ name: 'Título 7', element: 'h4', attributes: { 'class': 'bck-title bck-title7'} },
 			
 
 				{ name: 'Énfasis Subrayado Amarillo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-1'} },
