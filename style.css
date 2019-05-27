@@ -1607,6 +1607,26 @@ a:hover, a:active, a:focus {
 }
 
 
+/*Caja 17*/
+.bck-box.bck-box17 {
+	background: #fff;
+	padding: 20px;
+	margin-bottom: 20px;
+	border-radius: 20px;
+	border: 2px solid #FFCF01;
+}
+
+.bck-box17 .bck-title {
+	font-family: 'Conv_AndikaNewBasic-Bold';
+	padding-left: 10px;
+
+}
+
+.bck-box17 .bck-content {
+    padding: 5px 5px 10px 10px;
+    font-family: 'Conv_AndikaNewBasic-Regular';
+}
+
 
 /*TABLA 1*/
 
