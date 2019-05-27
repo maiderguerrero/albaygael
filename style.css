@@ -530,6 +530,8 @@ a:hover, a:active, a:focus {
     padding: 10px 10px 0px 10px;
     margin-bottom: 15px;
     font-size: 2.5rem;
+    -webkit-box-shadow: 20px -5px 15px 0 #D7D7D7;
+	box-shadow: 20px -5px 15px 0 #D7D7D7;
 }
 
 /*TITULO 5*/
@@ -541,6 +543,8 @@ a:hover, a:active, a:focus {
     padding: 10px 10px 0px 10px;
     margin-bottom: 15px;
     font-size: 2.5rem;
+    -webkit-box-shadow: 20px -5px 15px 0 #D7D7D7;
+	box-shadow: 20px -5px 15px 0 #D7D7D7;
 }
 
 /*TITULO 6*/
