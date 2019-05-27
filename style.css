@@ -1671,53 +1671,57 @@ a:hover, a:active, a:focus {
 }
 
 .bck-enfasis-3 {
+
+}
+
+.bck-enfasis-4 {
 	background-color: #00AC81;
 	color: #FFCF01;
 	font-size: 2.1rem;
     font-family:'Conv_AndikaNewBasic-Bold',Sans-Serif;
 }
 
-.bck-enfasis-4 {
+.bck-enfasis-5 {
 	border: 2px solid #FFCF01;
     border-radius: 60%;
     padding: 3px 5px 3px 5px;
 }
 
-.bck-enfasis-5 {
+.bck-enfasis-6 {
 	color: #EE2E24;
 }
 
-.bck-enfasis-6 {
+.bck-enfasis-7 {
 	color: #7C3B96;
 }
 
-.bck-enfasis-7 {
+.bck-enfasis-8 {
 	color: #75AF5E;
 }
 
-.bck-enfasis-8 {
+.bck-enfasis-9 {
 	color: #00AA8A;
 }
 
-.bck-enfasis-9 {
+.bck-enfasis-10 {
 	color: #00AEEF;
 }
 
-.bck-enfasis-10 {
+.bck-enfasis-11 {
 	color: #EE2E24;
 	background: #FDD4C2;
 	border-radius: 100%;
     padding: 5px 8px;
 }
 
-.bck-enfasis-11 {
+.bck-enfasis-12 {
 	color: #00AEEF;
 	background: #C7EAFB;
 	border-radius: 100%;
     padding: 5px 8px;
 }
 
-.bck-enfasis-12 {
+.bck-enfasis-13 {
 	color: #00AA8A;
 	background: #CDE9E1;
 	border-radius: 100%;
