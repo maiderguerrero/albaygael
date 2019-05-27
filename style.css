@@ -1360,7 +1360,7 @@ a:hover, a:active, a:focus {
 /* Caja 10 */
 .bck-box.bck-box10 {
 	background: #FCEAF1;
-	padding: 0px;
+	padding: 20px;
 	margin-bottom: 20px;
 	border-radius: 20px;
 	border: 2px solid #EA368E;
