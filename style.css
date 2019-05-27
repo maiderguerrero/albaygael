@@ -1498,7 +1498,7 @@ a:hover, a:active, a:focus {
 
 .bck-box12 .bck-title{
 	background-color: #F3A1C1;
-	margin-bottom: 2px solid #EA368E;
+	border-bottom: 2px solid #EA368E;
 	text-align: center;
 
 }
