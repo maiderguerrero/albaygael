@@ -1050,87 +1050,69 @@ a:hover, a:active, a:focus {
 	margin-bottom: 0;
 }
 
-/* Caja 1 */
+/*Caja 1*/
 .bck-box.bck-box1 {
-    border: 3px solid #FFCF01;
-    background: #fff;
-    border-radius: 50%;
-    margin-bottom: 30px;
-    padding: 40px;
-    text-align: center;
-    -webkit-box-shadow: 10px 5px 5px 1px #D0D0D0;
-    box-shadow: 5px 8px 12px 0px #D0D0D0;
-    font-size: 2rem;
-    font-family:'Conv_OpenDyslexic-Regular',Sans-Serif;
+	border: none;
+	background: #FFCF01;
+	margin-bottom: 30px;
+	padding: 15px 20px 30px 25px;
+	border-radius: 0px;
+	margin-top: -76px;
 }
 
 .bck-box1 .bck-title {
-	color: #333;
-    font-size: 2rem;
-    font-weight: 600;
+	color: #fff;
+    background: #EA368E;
+    width: fit-content;
+    padding: 30px 25px 0px 25px;
+    font-family: 'Conv_Plakkaat',Sans-Serif;
+    font-size: 4rem;
+    margin-left: -50px;
+    margin-top: -15px;
 }
 
-/*
-
-.bck-box.bck-box1:before{
-    content: '';
-    display: block;
-    position: absolute;
-    left: 100px;
-    bottom: 25px;
-    z-index: 10;
-    padding: 0px;
-    border-left: 25px solid transparent;
-    border-right: 25px solid transparent;
-    border-top: 25px solid #C3E4E7;
-    border-bottom: none;
-
+.bck-box1 .bck-content{
+	background: #FFCF01;
+	font-family: 'Conv_ChelseaMarket-Regular';
+	color: #F3A1C1;
+	font-size: 5.5rem;
+	-webkit-text-stroke: #ea368e 2.5px;
 }
-*/
 
 
-/* Caja 2 */
+/* Caja 2*/ 
 .bck-box.bck-box2 {
-    border: 3px solid #00AC81;
-    background: #fff;
-    border-radius: 50%;
-    margin-bottom: 30px;
-    padding: 40px;
-    text-align: center;
-    -webkit-box-shadow: 10px 5px 5px 1px #D0D0D0;
-    box-shadow: 5px 8px 12px 0px #D0D0D0;
-    font-size: 2rem;
-    font-family:'Conv_OpenDyslexic-Regular',Sans-Serif;
+	border: none;
+	background: #FFCF01;
+	margin-bottom: 30px;
+	padding: 15px 20px 30px 25px;
+	border-radius: 0px;
 }
 
 .bck-box2 .bck-title {
-	color: #333;
-    font-size: 2rem;
-    font-weight: 600;
+	color: #fff;
+    background: #00AC81;
+    width: fit-content;
+    padding: 30px 25px 0px 25px;
+    font-family: 'Conv_Plakkaat',Sans-Serif;
+    font-size: 4rem;
+    margin-left: -50px;
+    margin-top: -15px;
 }
 
-/*
-
-.bck-box.bck-box2:before{
-    content: '';
-    display: block;
-    position: absolute;
-    left: 60%;
-    bottom: 25px;
-    z-index: 10;
-    padding: 0px;
-    border-left: 25px solid transparent;
-    border-right: 25px solid transparent;
-    border-top: 25px solid #EEF4DE;
-    border-bottom: none;
-
+.bck-box2 .bck-content{
+	background: #FFCF01;
+	font-family: 'Conv_ChelseaMarket-Regular';
+	color: #8ACFB8;
+	font-size: 5.5rem;
+	-webkit-text-stroke: #00AC81 2.5px;
 }
 
-*/
 
-/* Caja 3 */
+
+/* Caja 3 */ 
 .bck-box.bck-box3 {
-	border: 3px solid #EA368E;
+    border: 3px solid #FFCF01;
     background: #fff;
     border-radius: 50%;
     margin-bottom: 30px;
@@ -1154,29 +1136,29 @@ a:hover, a:active, a:focus {
     content: '';
     display: block;
     position: absolute;
-    left: 65px;
+    left: 100px;
     bottom: 25px;
     z-index: 10;
     padding: 0px;
     border-left: 25px solid transparent;
     border-right: 25px solid transparent;
-    border-top: 25px solid #ECF6F7;
+    border-top: 25px solid #C3E4E7;
     border-bottom: none;
 
 }
-
 */
 
 
 /* Caja 4 */
 .bck-box.bck-box4 {
-	border: none;
-	width: 60% !important;
-    background: #EA368E;
-    border-radius: 100%;
-    text-align: center;
-    color: #fff;
+    border: 3px solid #00AC81;
+    background: #fff;
+    border-radius: 50%;
+    margin-bottom: 30px;
     padding: 40px;
+    text-align: center;
+    -webkit-box-shadow: 10px 5px 5px 1px #D0D0D0;
+    box-shadow: 5px 8px 12px 0px #D0D0D0;
     font-size: 2rem;
     font-family:'Conv_OpenDyslexic-Regular',Sans-Serif;
 }
@@ -1193,28 +1175,29 @@ a:hover, a:active, a:focus {
     content: '';
     display: block;
     position: absolute;
-    left: 80px;
-    top: 25px;
+    left: 60%;
+    bottom: 25px;
     z-index: 10;
     padding: 0px;
     border-left: 25px solid transparent;
     border-right: 25px solid transparent;
-    border-bottom: 25px solid #FEF5ED;
-    border-top: none;
-    height: 0;
+    border-top: 25px solid #EEF4DE;
+    border-bottom: none;
 
 }
+
 */
 
-/* Caja 5 */
+/* Caja 5 */ 
 .bck-box.bck-box5 {
-	border: none;
-	width: 60% !important;
-    background: #00AC81;
-    border-radius: 100%;
-    text-align: center;
-    color: #fff;
+	border: 3px solid #EA368E;
+    background: #fff;
+    border-radius: 50%;
+    margin-bottom: 30px;
     padding: 40px;
+    text-align: center;
+    -webkit-box-shadow: 10px 5px 5px 1px #D0D0D0;
+    box-shadow: 5px 8px 12px 0px #D0D0D0;
     font-size: 2rem;
     font-family:'Conv_OpenDyslexic-Regular',Sans-Serif;
 }
@@ -1231,6 +1214,83 @@ a:hover, a:active, a:focus {
     content: '';
     display: block;
     position: absolute;
+    left: 65px;
+    bottom: 25px;
+    z-index: 10;
+    padding: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 25px solid #ECF6F7;
+    border-bottom: none;
+
+}
+
+*/
+
+
+/* Caja 6 */ 
+.bck-box.bck-box6 {
+	border: none;
+	width: 60% !important;
+    background: #EA368E;
+    border-radius: 100%;
+    text-align: center;
+    color: #fff;
+    padding: 40px;
+    font-size: 2rem;
+    font-family:'Conv_OpenDyslexic-Regular',Sans-Serif;
+}
+
+.bck-box6 .bck-title {
+	color: #333;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+/*
+
+.bck-box.bck-box6:before{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 80px;
+    top: 25px;
+    z-index: 10;
+    padding: 0px;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 25px solid #FEF5ED;
+    border-top: none;
+    height: 0;
+
+}
+*/
+
+/* Caja 7 */
+.bck-box.bck-box7 {
+	border: none;
+	width: 60% !important;
+    background: #00AC81;
+    border-radius: 100%;
+    text-align: center;
+    color: #fff;
+    padding: 40px;
+    font-size: 2rem;
+    font-family:'Conv_OpenDyslexic-Regular',Sans-Serif;
+}
+
+.bck-box7 .bck-title {
+	color: #333;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+/*
+
+.bck-box.bck-box7:before{
+    content: '';
+    display: block;
+    position: absolute;
     left: 40%;
     bottom: 25px;
     z-index: 10;
@@ -1243,8 +1303,8 @@ a:hover, a:active, a:focus {
 }
 */
 
-/*Caja 6*/
-.bck-box.bck-box6 {
+/*Caja 8*/ 
+.bck-box.bck-box8 {
 	border: none;
 	background: #00AC81;
 	border-radius: 20px;
@@ -1256,7 +1316,7 @@ a:hover, a:active, a:focus {
 
 }
 
-.bck-box6 .bck-title {
+.bck-box8 .bck-title {
 	color: #333;
     font-size: 2rem;
     font-weight: 600;
@@ -1264,7 +1324,7 @@ a:hover, a:active, a:focus {
 
 /*
 
-.bck-box.bck-box6:before{
+.bck-box.bck-box8:before{
     content: '';
     display: block;
     position: absolute;
@@ -1280,64 +1340,6 @@ a:hover, a:active, a:focus {
 
 }
 */
-
-/*Caja 7*/
-.bck-box.bck-box7 {
-	border: none;
-	background: #FFCF01;
-	margin-bottom: 30px;
-	padding: 15px 20px 30px 25px;
-	border-radius: 0px;
-	margin-top: -76px;
-}
-
-.bck-box7 .bck-title {
-	color: #fff;
-    background: #EA368E;
-    width: fit-content;
-    padding: 30px 25px 0px 25px;
-    font-family: 'Conv_Plakkaat',Sans-Serif;
-    font-size: 4rem;
-    margin-left: -50px;
-    margin-top: -15px;
-}
-
-.bck-box7 .bck-content{
-	background: #FFCF01;
-	font-family: 'Conv_ChelseaMarket-Regular';
-	color: #F3A1C1;
-	font-size: 5.5rem;
-	-webkit-text-stroke: #ea368e 2.5px;
-}
-
-
-/* Caja 8*/
-.bck-box.bck-box8 {
-	border: none;
-	background: #FFCF01;
-	margin-bottom: 30px;
-	padding: 15px 20px 30px 25px;
-	border-radius: 0px;
-}
-
-.bck-box8 .bck-title {
-	color: #fff;
-    background: #00AC81;
-    width: fit-content;
-    padding: 30px 25px 0px 25px;
-    font-family: 'Conv_Plakkaat',Sans-Serif;
-    font-size: 4rem;
-    margin-left: -50px;
-    margin-top: -15px;
-}
-
-.bck-box8 .bck-content{
-	background: #FFCF01;
-	font-family: 'Conv_ChelseaMarket-Regular';
-	color: #8ACFB8;
-	font-size: 5.5rem;
-	-webkit-text-stroke: #00AC81 2.5px;
-}
 
 
 /* Caja 9*/
