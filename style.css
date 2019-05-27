@@ -110,7 +110,7 @@
 	.content_type_clase_albaygael #actividad .content .header .title {
 		margin: -20px 3px 19px;
     	background: #fff;
-    	padding: 20px 97px;
+    	padding: 20px;
 	}
 
 	.content_type_clase_albaygael #actividad .content .slide-concatenate .header .title {
@@ -122,9 +122,8 @@
 	    display: block;
 	    width: fit-content;
 	    margin: 0;
-	    padding: 10px 20px 10px 0px;
 	    color: #00A1A8;
-	    font-size: 3.5rem;
+	    font-size: 1.5rem;
 	    font-weight: bold;
 	    text-align: left;
 	}
