@@ -1335,9 +1335,10 @@ a:hover, a:active, a:focus {
 
 /* Caja 9*/
 .bck-box.bck-box9 {
-	border: 3px solid #01A1A8;
     background: #fff;
     margin-bottom: 40px;
+    -webkit-box-shadow: 5px 8px 10px 5px #D7D7D7;
+	box-shadow: 5px 8px 10px 5px #D7D7D7;
 
 }
 
