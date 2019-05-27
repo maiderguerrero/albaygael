@@ -1491,18 +1491,28 @@ a:hover, a:active, a:focus {
 	background-color: #fff;
 	padding: 20px;
 	margin-bottom: 20px;
-	border-radius: 20px;
-	border: 2px solid #EA368E;
+	border: none;
 
 }
 
-.bck-box12 .bck-title{
+.bck-box12 .bck-title {
 	background-color: #F3A1C1;
-	border-bottom: 2px solid #EA368E;
+	border: 2px solid #EA368E;
 	text-align: center;
+	padding-top: 15px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
 
 }
 
+.bck-box12 .bck-content {
+	background-color: #fff;
+	border: 2px solid #EA368E;
+	padding: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
 
 
 /*Caja 13*/
