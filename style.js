@@ -21,8 +21,9 @@
 				{ name: 'Énfasis Amarillo con fondo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-2'} },
 				{ name: 'Énfasis Amarillo con fondo Verde', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-3'} },
 				{ name: 'Énfasis Rodear Amarillo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-4'} },
-				{ name: 'Énfasis Verde', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-5'} },
-				{ name: 'Énfasis Rosa', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-6'} },
+				{ name: 'Énfasis Rojo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-5'} },
+				{ name: 'Énfasis Morado', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-6'} },
+				{ name: 'Énfasis Verde', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-7'} },
 
 				{ name: 'Lista ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol1' } },
 				{ name: 'Lista ordenada 2', element: 'ol', attributes: { 'class': 'bck-ol bck-ol2' } },
