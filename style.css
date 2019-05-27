@@ -1288,7 +1288,7 @@ a:hover, a:active, a:focus {
 	font-family: 'Conv_ChelseaMarket-Regular';
 	color: #F3A1C1;
 	font-size: 5.5rem;
-	-webkit-text-stroke: #ea368e 2px;
+	-webkit-text-stroke: #ea368e 2.5px;
 }
 
 /*
