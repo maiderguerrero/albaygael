@@ -1359,17 +1359,14 @@ a:hover, a:active, a:focus {
     margin-bottom: 40px;
     -webkit-box-shadow: 5px 8px 10px 5px #D7D7D7;
 	box-shadow: 5px 5px 8px 5px #D7D7D7;
+    -webkit-transform: rotate(-2deg);
+    -moz-transform: rotate(-2deg);
+    -ms-transform: rotate(-2deg);
+    transform: rotate(-2deg);
+}
 
 }
 
-/*
-
-.bck-box9 .bck-title {
-	color: #01A1A8;
-	font-size: 2.5rem;
-}
-
-*/
 
 /* Caja 10 */
 .bck-box.bck-box10 {
