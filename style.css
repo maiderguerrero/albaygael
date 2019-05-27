@@ -1357,20 +1357,10 @@ a:hover, a:active, a:focus {
 
 /* Caja 10 */
 .bck-box.bck-box10 {
-	background: #fff;
+	background: #FCEAF1;
 	padding: 0px;
-	margin-bottom: 40px;
-}
-
-.bck-box10 .bck-title {
-	border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-    color: #fff;
-	font-size: 2.5rem;
-    font-weight: 900;
-    background: #C0C9E8;
-    padding: 5px 0px 0px 15px;
-    width: 50%;
+	margin-bottom: 20px;
+	border-radius: 20px;
 }
 
 .bck-box10 .bck-content {
