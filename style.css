@@ -1378,14 +1378,14 @@ a:hover, a:active, a:focus {
 }
 
 .bck-box10 .bck-title {
-	font-family:'Conv_AndikaNewBasic-Bold',Sans-Serif;
+	font-family: 'Conv_AndikaNewBasic-Bold';
 
 }
 
 .bck-box10 .bck-content {
     font-weight: bold;
     padding: 5px 5px 10px 10px;
-    font-family:'Conv_AndikaNewBasic-Regular',Sans-Serif;
+    font-family: 'Conv_AndikaNewBasic-Regular';
 }
 
 
