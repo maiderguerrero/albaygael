@@ -1660,12 +1660,16 @@ a:hover, a:active, a:focus {
 	padding: 15px;
 }
 
+
+/*
 .bck-box19 .bck-title {
 	background-image: url(images/chincheta_alba_gael.png)
 
 }
 
-/*
+*/
+
+
 
 .bck-box19 .bck-content:before {
 	content: url(images/chincheta_alba_gael.png);
@@ -1676,7 +1680,6 @@ a:hover, a:active, a:focus {
     width: 0px !important;
 }
 
-*/
 
 /*Caja 20*/
 
