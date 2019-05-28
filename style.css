@@ -1166,7 +1166,7 @@ a:hover, a:active, a:focus {
     width: fit-content;
     padding: 30px 25px 0px 25px;
     font-family: 'Conv_Plakkaat',Sans-Serif;
-    font-size: 4rem;
+    font-size: 3.5rem;
     margin-left: -50px;
     margin-top: -15px;
 }
@@ -1175,8 +1175,8 @@ a:hover, a:active, a:focus {
 	background: #FFCF01;
 	font-family: 'Conv_ChelseaMarket-Regular';
 	color: #F3A1C1;
-	font-size: 5.5rem;
-	-webkit-text-stroke: #ea368e 2.5px;
+	font-size: 4.8rem;
+	-webkit-text-stroke: #ea368e 2px;
 }
 
 
@@ -1196,7 +1196,7 @@ a:hover, a:active, a:focus {
     width: fit-content;
     padding: 30px 25px 0px 25px;
     font-family: 'Conv_Plakkaat',Sans-Serif;
-    font-size: 4rem;
+    font-size: 3.5rem;
     margin-left: -50px;
     margin-top: -15px;
 }
@@ -1205,8 +1205,8 @@ a:hover, a:active, a:focus {
 	background: #FFCF01;
 	font-family: 'Conv_ChelseaMarket-Regular';
 	color: #8ACFB8;
-	font-size: 5.5rem;
-	-webkit-text-stroke: #00AC81 2.5px;
+	font-size: 4.8rem;
+	-webkit-text-stroke: #00AC81 2px;
 }
 
 
