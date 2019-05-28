@@ -1617,7 +1617,7 @@ a:hover, a:active, a:focus {
 .bck-box19 .bck-title:before {
 	content: "";
 	background-image: url(images/chincheta_alba_gael.png);
-    margin-top: 25px;
+    margin-top: -15px;
     position: absolute;
     left: 50%;
     padding: 15px;
