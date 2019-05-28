@@ -1615,9 +1615,6 @@ a:hover, a:active, a:focus {
 
     }
 
-
-
-
 .bck-box19 .bck-title:before {
 	content: "";
 	background-image: url(images/chincheta_alba_gael.png);
@@ -1633,7 +1630,7 @@ a:hover, a:active, a:focus {
 /*Caja 20*/
 
 .bck-box.bck-box20 {
-    margin-top: -33%;
+    margin-top: -30.8%;
     position: relative;
     left: -17.4%;
     width: 132.3%;
