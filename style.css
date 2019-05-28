@@ -1652,6 +1652,13 @@ a:hover, a:active, a:focus {
     font-family: 'Conv_AndikaNewBasic-Regular';
 }
 
+/*Caja 19*/
+
+.bck-box19 .bck-content {
+	background-color: #FFFBCC;
+
+}
+
 /*Caja 20*/
 
 .bck-box.bck-box20 {
