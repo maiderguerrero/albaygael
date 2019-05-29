@@ -479,7 +479,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover,
 
 a:hover, a:active, a:focus {
     outline: 0;
-    color: #00a1a8;
+    color: #00ac81;
     text-decoration: none;
 }
 
