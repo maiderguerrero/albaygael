@@ -501,6 +501,18 @@ a:hover, a:active, a:focus {
 /*TITULO 2*/
 
 .bck-title2 {
+	font-size: 3.5rem;
+	font-family: 'Conv_ChelseaMarket-Regular';
+	color: #8ACFB8;
+	font-size: 3.5rem;
+	-webkit-text-stroke: #00AC81 2px;
+	margin-bottom: 30px;
+       
+}
+
+/*TITULO 3*/
+
+.bck-title3 {
 	color: #333;
 	font-weight: bold;
 	margin-bottom: 30px;
@@ -512,8 +524,8 @@ a:hover, a:active, a:focus {
 	font-family: 'Conv_OpenDyslexic-Regular',Sans-Serif;   
 }
 
-/*TITULO 3*/
-.bck-title3 {
+/*TITULO 4*/
+.bck-title4 {
 	color: #EA368E;
     font-family: 'Conv_Plakkaat',Sans-Serif;
     font-size: 4rem;
@@ -521,8 +533,8 @@ a:hover, a:active, a:focus {
 
 }
 
-/*TITULO 4*/
-.bck-title4{
+/*TITULO 5*/
+.bck-title5{
 	color:#fff;
 	background-color: #EE2E24;
 	text-align: center;
@@ -534,8 +546,8 @@ a:hover, a:active, a:focus {
 	box-shadow: 20px -5px 15px 0 #D7D7D7;
 }
 
-/*TITULO 5*/
-.bck-title5{
+/*TITULO 6*/
+.bck-title6{
 	color:#fff;
 	background-color: #7C3B96;
 	text-align: center;
@@ -547,8 +559,8 @@ a:hover, a:active, a:focus {
 	box-shadow: 20px -5px 15px 0 #D7D7D7;
 }
 
-/*TITULO 6*/
-.bck-title6{
+/*TITULO 7*/
+.bck-title7{
 	color: #fff;
     background-color: #75AF5E;
     text-align: center;
@@ -560,7 +572,7 @@ a:hover, a:active, a:focus {
 	box-shadow: 20px -5px 15px 0 #D7D7D7;
 }
 
-.bck-title6:before {
+.bck-title7:before {
 	content: 'MASCULINO';
     width: 120px;
     background-color: #EE2E24;
@@ -578,8 +590,8 @@ a:hover, a:active, a:focus {
 
 }
 
-/*TITULO 7*/
-.bck-title7{
+/*TITULO 8*/
+.bck-title8{
 	color: #fff;
     background-color: #75AF5E;
     text-align: center;
@@ -591,7 +603,7 @@ a:hover, a:active, a:focus {
 	box-shadow: 20px -5px 15px 0 #D7D7D7;
 }
 
-.bck-title7:before {
+.bck-title8:before {
 	content: 'FEMENINO';
     width: 120px;
     background-color: #7C3B96;
