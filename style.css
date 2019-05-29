@@ -445,12 +445,23 @@
 #indice .units ul li.active:not(.disabled), 
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
 #indice .units ul li:focus:not(.disabled) {
-    background: #FECA11;
-    /*border-left: 5px solid #00a1a8;*/
+    background: transparent;
+    border: 3px dotted #00AC81;
+}
+
+body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
+body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
+    color: #00AC81;
+    font-size: 1.8rem;
+}
+
+body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover, 
+#indice .units ul li.active a {
+    color: #fff;
 }
 
 #indice .units ul li a .title {
-    font-size: 16px;
+    font-size: 1.8rem;
     font-weight: 700;
     color: #fff;
     margin: -21px 0 0 35px;
@@ -458,17 +469,6 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     display: block;
 }
 
-/*.btn-primary, 
-.btn-primary.disabled, 
-.btn-primary.disabled:hover, 
-.btn-primary.disabled:focus {
-    color: #fff;
-    background-color: #FECA11;
-    border-color: transparent;
-    opacity: 1;
-    border-radius: 0px;
-}
-*/
 
 .btn-primary.disabled {
 	border-radius: 0px;
