@@ -502,6 +502,7 @@ a:hover, a:active, a:focus {
 	font-size: 3.5rem;
 	-webkit-text-stroke: #EA368E 2px;
 	margin-bottom: 30px;
+	text-align: center;
        
 }
 
@@ -514,6 +515,7 @@ a:hover, a:active, a:focus {
 	font-size: 3.5rem;
 	-webkit-text-stroke: #00AC81 2px;
 	margin-bottom: 30px;
+	text-align: center;
        
 }
 
