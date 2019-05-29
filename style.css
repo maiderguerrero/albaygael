@@ -458,7 +458,7 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     display: block;
 }
 
-.btn-primary, 
+/*.btn-primary, 
 .btn-primary.disabled, 
 .btn-primary.disabled:hover, 
 .btn-primary.disabled:focus {
@@ -468,6 +468,14 @@ body:not(.isTablet) #indice .units ul li:hover:not(.disabled),
     opacity: 1;
     border-radius: 0px;
 }
+*/
+
+.btn-primary.disabled {
+	border-radius: 0px;
+	background-color: #ffcf01;
+
+}
+
 
 a:hover, a:active, a:focus {
     outline: 0;
