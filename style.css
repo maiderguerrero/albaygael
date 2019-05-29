@@ -1992,7 +1992,7 @@ a:hover, a:active, a:focus {
 #actividad .workspace.multiple-choice .opcion,
 #actividad .workspace.matching .opcion,
 #actividad .workspace.ordenar .js-rank-item {
-    border: 2px solid #10A0C6;
+    border: 2px solid #ffcf01;
     background: #fff;
 }
 
