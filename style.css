@@ -446,7 +446,7 @@
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
 #indice .units ul li:focus:not(.disabled) {
     background: transparent;
-    border: 3px dotted #00AC81;
+    border: 2.5px dotted #00AC81;
 }
 
 body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
