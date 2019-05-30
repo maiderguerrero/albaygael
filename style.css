@@ -1016,7 +1016,7 @@ a:hover, a:active, a:focus {
 .cke_contents .bck-ul1 li {
 	font-weight: normal;
 	color: #333;
-	margin-left: -10px;
+	margin-left: -25px;
 	padding-left: 80px;
 	font-size: 2rem;
 	margin-bottom: 10px;
@@ -1410,8 +1410,6 @@ a:hover, a:active, a:focus {
     -moz-transform: rotate(-1.5deg);
     -ms-transform: rotate(-1.5deg);
     transform: rotate(-1.5deg);
-  
-    
     background-image: -webkit-radial-gradient(#d6d5d6 30%, transparent 20%), 
     -webkit-radial-gradient(#cfcfc3 38%, transparent 24%), 
     -webkit-linear-gradient(top, hsla(0,0%,0%,0) 0%, hsla(0,0%,0%,0) 100%);
@@ -1424,7 +1422,7 @@ a:hover, a:active, a:focus {
     background-position: 4px 1px, 4px 0px, 50% 0px;
     background-repeat: repeat-x, repeat-x, repeat;
     background-size: 30px 30px, 30px 30px, 30px 30px;
-    padding: 38px 10px 10px 10px;
+    padding: 38px 10px 10px 20px;
    
 }
 
