@@ -513,6 +513,21 @@ a:hover, a:active, a:focus {
 
 /**/
 
+/*Enlace descarga*/
+.bck-sub-label, .bck-file-label {
+    background: transparent;
+    max-width: 200px;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    overflow-wrap: break-word;
+    vertical-align: top;
+    color: #ffcf01;
+}
+
+/*TÍTULOS*/
+
 /*TITULO 1*/
 
 .bck-title1 {
