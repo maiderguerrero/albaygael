@@ -526,6 +526,10 @@ a:hover, a:active, a:focus {
     color: #ffcf01;
 }
 
+.bck-file-attach img {
+    display: none;
+}
+
 /*TÍTULOS*/
 
 /*TITULO 1*/
