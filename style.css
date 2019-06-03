@@ -483,6 +483,11 @@ a:hover, a:active, a:focus {
     text-decoration: none;
 }
 
+#indice .units ul li a:not(.delete) {
+    display: block;
+    padding: 8px 18px;
+}
+
 #indice .unit-content .header .title {
     color: #fff;
     float: left;
