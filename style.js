@@ -22,9 +22,9 @@
 				{ name: 'Título 8', element: 'h4', attributes: { 'class': 'bck-title bck-title8'} },
 			
 
-				{ name: 'Énfasis Subrayado Amarillo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-1'} },
+				{ name: 'Énfasis Workbook Subrayado Amarillo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-1'} },
 				{ name: 'Énfasis Amarillo con fondo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-2'} },
-				{ name: 'Énfasis Rosa con fondo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-3'} },
+				{ name: 'Énfasis Fondo Amarillo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-3'} },
 				{ name: 'Énfasis Amarillo con fondo Verde', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-4'} },
 				{ name: 'Énfasis Rodear Amarillo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-5'} },
 				{ name: 'Énfasis Rojo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-6'} },
