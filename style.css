@@ -1058,7 +1058,7 @@ a:hover, a:active, a:focus {
 .cke_contents .bck-ul1 li {
 	font-weight: normal;
 	color: #333;
-	margin-left: -25px;
+	margin-left: -15px;
 	padding-left: 80px;
 	font-size: 2rem;
 	margin-bottom: 10px;
@@ -1085,7 +1085,7 @@ a:hover, a:active, a:focus {
 .cke_contents .bck-ul2 li {
     font-weight: normal;
 	color: #333;
-	margin-left: -25px;
+	margin-left: -15px;
 	padding-left: 80px;
 	font-size: 2rem;
 	margin-bottom: 10px;
