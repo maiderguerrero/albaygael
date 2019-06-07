@@ -1098,7 +1098,7 @@ a:hover, a:active, a:focus {
     width: 6px;
     height: 6px;
     background-color: #fff;
-    border: 2px solid #414141;
+    border: 1px solid #414141;
     margin-left: -20px;
     font-family: 'Conv_OpenDyslexic-Regular',Sans-Serif; 
 }
