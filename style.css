@@ -1456,10 +1456,6 @@ a:hover, a:active, a:focus {
     -moz-transform: rotate(-1.5deg);
     -ms-transform: rotate(-1.5deg);
     transform: rotate(-1.5deg);
-    -webkit-transform: rotate(-1.5deg);
-    -moz-transform: rotate(-1.5deg);
-    -ms-transform: rotate(-1.5deg);
-    transform: rotate(-1.5deg);
     background-image: -webkit-radial-gradient(#d6d5d6 30%, transparent 20%), 
     -webkit-radial-gradient(#cfcfc3 38%, transparent 24%), 
     -webkit-linear-gradient(top, hsla(0,0%,0%,0) 0%, hsla(0,0%,0%,0) 100%);
@@ -1700,10 +1696,6 @@ a:hover, a:active, a:focus {
     margin-bottom: 40px;
     -webkit-box-shadow: 5px 8px 10px 5px #D7D7D7;
 	box-shadow: 5px 5px 8px 5px #D7D7D7;
-    -webkit-transform: rotate(1.5deg);
-    -moz-transform: rotate(1.5deg);
-    -ms-transform: rotate(1.5deg);
-    transform: rotate(1.5deg);
     -webkit-transform: rotate(1.5deg);
     -moz-transform: rotate(1.5deg);
     -ms-transform: rotate(1.5deg);
