@@ -999,27 +999,33 @@ a:hover, a:active, a:focus {
 .cke_contents .bck-ol9 li {
 	font-weight: normal;
 	color: #333;
-	padding-left: 70px;
+	margin-left: -10px;
+	padding-left: 80px;
+	font-size: 2.3rem;
+	font-family: 'Conv_OpenDyslexic-Regular',Sans-Serif;
 	}
 
 .content .bck-ol9 li:before,
 .cke_contents .bck-ol9 li:before {
-	content: counter(bck-li-counter);
-    color: #fff;
-    background: #00A1A8;
-    padding: 0px;
-    border-radius: 100%;
+	content: counter(bck-li-counter, lower-alpha) ".";
     position: absolute;
-    top: 4px;
+    margin-top: 4px;
     left: 40px;
-    width: 25px;
-    text-align: center;
+    display: inline-block;
+    width: 36px;
     height: auto;
-    font-size: 1.7rem;
+    border: 2px solid #EA368E;
+    border-radius: 100%;
+    background: transparent;
+    color: #333;
+    font-size: 2.3rem;
+    font-weight: bold;
+    text-align: center;
     text-shadow: none;
     transform: none;
     margin-right: -10px;
-    font-weight: bold;
+    padding-top: 0px;
+    font-family: 'Conv_OpenDyslexic-Bold',Sans-Serif;
 }
 
 /*LISTA ORDENADA 10*/
