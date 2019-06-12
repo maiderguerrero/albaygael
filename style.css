@@ -1007,7 +1007,7 @@ a:hover, a:active, a:focus {
 
 .content .bck-ol9 li:before,
 .cke_contents .bck-ol9 li:before {
-	content: counter(bck-li-counter, lower-alpha) ".";
+	content: counter(bck-li-counter, lower-alpha) " ";
     position: absolute;
     margin-top: 4px;
     left: 40px;
