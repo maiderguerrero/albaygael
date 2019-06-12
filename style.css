@@ -1736,12 +1736,19 @@ a:hover, a:active, a:focus {
 
 /*LISTA DESORDENADA 4*/
 
+.texto_curso .bck-ul4 li, 
+.workspace .bck-ul4 li ul li, 
+.cke_contents .bck-ul4 li {
+	font-family:'Conv_AndikaNewBasic-Regular',Sans-Serif;
+	color: #00AC84;
+}
+
 .texto_curso .bck-ul4 li:before, 
 .workspace .bck-ul4 li ul li:before, 
 .cke_contents .bck-ul4 li:before {
     width: 6px;
     height: 6px;
-    background-color: #40A1A8;
+    background-color: #00AC84;
     margin-left: -20px;
 }
 
