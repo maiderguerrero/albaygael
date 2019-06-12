@@ -1033,27 +1033,32 @@ a:hover, a:active, a:focus {
 .content .bck-ol10 li,
 .cke_contents .bck-ol10 li {
 	font-weight: normal;
-	color: #333;
-	padding-left: 70px;
+	color: #0068AF;
+	margin-left: -10px;
+	padding-left: 80px;
+	font-size: 2.3rem;
+	font-family: 'Conv_OpenDyslexic-Regular',Sans-Serif;
 	}
 
 .content .bck-ol10 li:before,
 .cke_contents .bck-ol10 li:before {
-	content: counter(bck-li-counter, upper-alpha) ".";
-    color: #333;
-    background: transparent;
-    padding: 0px;
+	content: counter(bck-li-counter) ".";
     position: absolute;
-    top: 4px;
+    margin-top: 4px;
     left: 40px;
-    width: 25px;
+    display: inline-block;
+    width: 40px;
+    height: 0px;
+    border: 0px;
+    background: transparent;
+    color: #0068AF;
+    font-size: 2.3rem;
+    font-weight: bold;
     text-align: center;
-    height: auto;
-    font-size: 2rem;
     text-shadow: none;
     transform: none;
     margin-right: -10px;
-    font-weight: bold;
+    font-family: 'Conv_OpenDyslexic-Bold',Sans-Serif;
 }
 
 /*LISTA DESORDENADA 1*/
