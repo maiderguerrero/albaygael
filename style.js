@@ -38,6 +38,7 @@
 				{ name: 'Énfasis Rojo con fondo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-11'} },
 				{ name: 'Énfasis Azul con fondo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-12'} },
 				{ name: 'Énfasis Aguamarina con fondo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-13'} },
+				{ name: 'Énfasis Subrayado Amarillo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-14'} },
 
 
 				{ name: 'Lista ordenada 1', element: 'ol', attributes: { 'class': 'bck-ol bck-ol1' } },
