@@ -1119,7 +1119,13 @@ a:hover, a:active, a:focus {
 .texto_curso .bck-ul3 li, 
 .workspace .bck-ul3 li ul li, 
 .cke_contents .bck-ul3 li {
-    color: #B53A41;
+    font-weight: normal;
+	color: #69B648;
+	margin-left: -15px;
+	padding-left: 80px;
+	font-size: 2rem;
+	margin-bottom: 10px;
+	font-family: 'Conv_OpenDyslexic-Regular',Sans-Serif;
 }
 
 .texto_curso .bck-ul3 li:before, 
@@ -1127,9 +1133,9 @@ a:hover, a:active, a:focus {
 .cke_contents .bck-ul3 li:before {
     width: 6px;
     height: 6px;
-    background-color: #fff;
-    border: 1px solid #B53A41;
+    background-color: #69B648;
     margin-left: -20px;
+    font-family: 'Conv_OpenDyslexic-Regular',Sans-Serif; 
 }
 
 /*LISTA DESORDENADA 4*/
