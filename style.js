@@ -22,6 +22,7 @@
 				{ name: 'Título 8', element: 'h4', attributes: { 'class': 'bck-title bck-title8'} },
 				{ name: 'Título 9', element: 'h4', attributes: { 'class': 'bck-title bck-title9'} },
 				{ name: 'Título 10', element: 'h4', attributes: { 'class': 'bck-title bck-title10'} },
+				{ name: 'Título 11', element: 'h4', attributes: { 'class': 'bck-title bck-title11'} },
 			
 
 				{ name: 'Énfasis Workbook Subrayado Amarillo', element: 'span', attributes: { 'class': 'bck-enfasis bck-enfasis-1'} },
