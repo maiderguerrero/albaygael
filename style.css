@@ -1276,7 +1276,8 @@ a:hover, a:active, a:focus {
     width: fit-content;
     padding: 15px 20px 10px 20px;
     margin: auto auto 30px auto;
-    border-radius: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
     font-size: 2rem;
     -webkit-box-shadow: 20px -5px 15px 0 #D7D7D7;
 	box-shadow: 20px -5px 15px 0 #D7D7D7;
