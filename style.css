@@ -2349,6 +2349,24 @@ a:hover, a:active, a:focus {
 }
 
 
+/*Caja 22*/
+
+.bck-box.bck-box22 {
+    background-color: transparent;
+    margin: 10px 10px 20px 10px;
+    border: 3px solid #FFCF01;
+    background: #FFF2D1;
+    padding: 6px 20px;
+    border-radius: 20px;
+}
+
+.bck-box22 .bck-title {
+	color: #00AC84;
+	font-family: 'Conv_Plakkaat',Sans-Serif;
+}
+
+
+
 /*TABLA 1*/
 
 .table-1{
