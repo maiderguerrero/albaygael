@@ -2402,6 +2402,17 @@ a:hover, a:active, a:focus {
 	font-size: 3rem;
 }
 
+/*Caja 24*/
+
+.bck-box.bck-box24 {
+    margin: 10px 10px 20px 10px;
+    background: #FFF;
+    padding: 6px 20px;
+    border-radius: 20px;
+    -webkit-box-shadow: 5px 8px 10px 5px #D7D7D7;
+    box-shadow: 5px 8px 10px 5px #D7D7D7;
+}
+
 
 /*TABLA 1*/
 
