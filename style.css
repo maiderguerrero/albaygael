@@ -2613,7 +2613,7 @@ a:hover, a:active, a:focus {
 
 .bck-enfasis-15 {
 	background: #FFCF01;
-	margin-left: 35px;
+	padding-left: 35px;
 	padding-right: 5px;
 	font-size: 1.5rem;
 }
