@@ -2613,6 +2613,7 @@ a:hover, a:active, a:focus {
 
 .bck-enfasis-15 {
 	background: #FFCF01;
+	margin-left: 45px;
 }
 
 .bck-enfasis-15:before {
@@ -2621,7 +2622,9 @@ a:hover, a:active, a:focus {
 	background-repeat: no-repeat;
 	background-size: contain;
 	position: absolute;
-	padding: 20px;
+	padding: 14px;
+	margin-left: -38px;
+    margin-top: 5px;
 
 }
 
