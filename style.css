@@ -2417,7 +2417,10 @@ a:hover, a:active, a:focus {
 /*TABLA 1*/
 
 .table-1{
-	border: none;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom: 3px dotted #ea368e;
     color: #ea368e;
     font-size: 2.1rem;
     font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
