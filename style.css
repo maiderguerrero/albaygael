@@ -2611,6 +2611,22 @@ a:hover, a:active, a:focus {
 	background: #FFF200;
 }
 
+.bck-enfasis-15 {
+	background: #FFCF01;
+}
+
+.bck-enfasis-15:before {
+	content: " ";
+	background-image: url(images/lapiz_u2.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	position: absolute;
+	padding: 20px;
+
+}
+
+
+
 /* Icons */
 
 #actividad .player.audio {
