@@ -66,6 +66,17 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'Conv_Sweet Pea';
+	src: url('fonts/Sweet Pea.eot');
+	src: local('☺'), 
+	url('fonts/Sweet Pea.woff') format('woff'), 
+	url('fonts/Sweet Pea.ttf') format('truetype'), 
+	url('fonts/Sweet Pea.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
 
 /* General */
 
