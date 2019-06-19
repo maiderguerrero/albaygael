@@ -700,7 +700,12 @@ a:hover, a:active, a:focus {
 	background-color: #F2F9FA;
 }
 
-/*TAG UNIDAD 3  AZUL OSCURO*/
+/*TAG UNIDAD 2 ROSA*/
+.activitytag_rosa_albaygael hr {
+ border-bottom: 3px dotted #00AC81;
+}
+
+/*TAG UNIDAD 3 AZUL OSCURO*/
 
 /*Caja 1 - Tag Azul Oscuro*/
 
