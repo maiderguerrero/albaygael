@@ -2415,6 +2415,7 @@ a:hover, a:active, a:focus {
 
 /*HR*/
 hr {
+	border-top: none;
     border-bottom: 3px dotted #ea368e;
     width: 95%;
     margin-right: -6px;
