@@ -67,12 +67,12 @@
 }
 
 @font-face {
-	font-family: 'Conv_sweet_pea';
-	src: url('fonts/sweet_pea.eot');
+	font-family: 'Conv_sweetpearegular';
+	src: url('fonts/sweetpearegular.eot');
 	src: local('☺'), 
-	url('fonts/sweet_pea.woff') format('woff'), 
-	url('fonts/sweet_pea.ttf') format('truetype'), 
-	url('fonts/sweet_pea.svg') format('svg');
+	url('fonts/sweetpearegular.woff') format('woff'), 
+	url('fonts/sweetpearegular.ttf') format('truetype'), 
+	url('fonts/sweetpearegular.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -2656,7 +2656,7 @@ hr {
 }
 
 .bck-enfasis-16 {
-	font-family:'Conv_sweet_pea',Sans-Serif;
+	font-family:'Conv_sweetpearegular',Sans-Serif;
 	color: #005DAA;
 	font-size: 2.5rem;
 }
