@@ -2413,6 +2413,13 @@ a:hover, a:active, a:focus {
     box-shadow: 5px 8px 10px 5px #D7D7D7;
 }
 
+/*HR*/
+hr {
+    border-bottom: 3px dotted #ea368e;
+    width: 95%;
+    margin-right: -6px;
+    margin-top: -10px;
+}
 
 /*TABLA 1*/
 
