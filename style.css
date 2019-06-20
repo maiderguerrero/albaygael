@@ -575,6 +575,8 @@ a:hover, a:active, a:focus {
 
 /*TAGS*/
 
+/*TAGS SB*/
+
 /*TAG UNIDAD 0 VERDE*/
 
 /*Caja 1 - Tag Verde*/
@@ -1134,6 +1136,19 @@ a:hover, a:active, a:focus {
        -moz-transform: rotate(0deg);
        -ms-transform: rotate(0deg);
         transform: rotate(0deg);
+}
+
+/*TAGS WB*/
+.unittag_unidad2_wb #actividad .content .header .title {
+	background: #CFEADF; 
+}
+
+ .unittag_unidad2_wb #actividad .content .header .title h3 {
+	background: #cfeadf;
+}
+
+.unittag_unidad2_wb #actividad .content .header .title:before {
+	    background: #00AC81;
 }
 
 /*TÍTULOS*/
