@@ -566,6 +566,13 @@ a:hover, a:active, a:focus {
     display: none;
 }
 
+/*SECCIONES*/
+
+.content_type_clase_albaygael #actividad .content .slide_sin_titulo .header .title {
+   display: none;
+}
+
+
 /*TAGS*/
 
 /*TAG UNIDAD 0 VERDE*/
@@ -1900,7 +1907,7 @@ a:hover, a:active, a:focus {
 	margin-bottom: 30px;
 	padding: 15px 20px 30px 25px;
 	border-radius: 0px;
-	margin-top: -76px;
+	margin-top: -40px;
 }
 
 .bck-box1 .bck-title {
@@ -1978,23 +1985,6 @@ a:hover, a:active, a:focus {
     font-weight: 600;
 }
 
-/*
-
-.bck-box.bck-box3:before{
-    content: '';
-    display: block;
-    position: absolute;
-    left: 100px;
-    bottom: 25px;
-    z-index: 10;
-    padding: 0px;
-    border-left: 25px solid transparent;
-    border-right: 25px solid transparent;
-    border-top: 25px solid #C3E4E7;
-    border-bottom: none;
-
-}
-*/
 
 
 /* Caja 4 */
@@ -2016,25 +2006,6 @@ a:hover, a:active, a:focus {
     font-size: 2rem;
     font-weight: 600;
 }
-
-/*
-
-.bck-box.bck-box4:before{
-    content: '';
-    display: block;
-    position: absolute;
-    left: 60%;
-    bottom: 25px;
-    z-index: 10;
-    padding: 0px;
-    border-left: 25px solid transparent;
-    border-right: 25px solid transparent;
-    border-top: 25px solid #EEF4DE;
-    border-bottom: none;
-
-}
-
-*/
 
 /* Caja 5 */ 
 .bck-box.bck-box5 {
@@ -2398,7 +2369,7 @@ a:hover, a:active, a:focus {
 /*Caja 21*/
 
 .bck-box.bck-box21 {
-    margin-top: -10.8%;
+    margin-top: -15.8%;
     position: relative;
     left: -17.4%;
     width: 132.3%;
