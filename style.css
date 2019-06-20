@@ -579,52 +579,52 @@ a:hover, a:active, a:focus {
 
 /*Caja 1 - Tag Verde*/
 
-.activitytag_verde_albaygael .bck-box1 .bck-title {
+.unittag_verde_albaygael .bck-box1 .bck-title {
     background: #007D3D;
 }
 
-.activitytag_verde_albaygael .bck-box1 .bck-content{
+.unittag_verde_albaygael .bck-box1 .bck-content{
 	color: #84B08A;
 	-webkit-text-stroke: #007D3D 2px;
 }
 
 /*Título 1 - Tag Verde*/
 
-.activitytag_verde_albaygael .bck-title1 {
+.unittag_verde_albaygael .bck-title1 {
 	color: #84B08A;
 	-webkit-text-stroke: #007D3D 2px;       
 }
 
 /*Lista ordenada 1 - Tag Verde*/
 
-.activitytag_verde_albaygael .content .bck-ol1 li,
-.activitytag_verde_albaygael .cke_contents .bck-ol1 li,
-.activitytag_verde_albaygael .content ol li,
-.activitytag_verde_albaygael .cke_contents ol li {
+.unittag_verde_albaygael .content .bck-ol1 li,
+.unittag_verde_albaygael .cke_contents .bck-ol1 li,
+.unittag_verde_albaygael .content ol li,
+.unittag_verde_albaygael .cke_contents ol li {
     color: #007D3D;
 }
 
-.activitytag_verde_albaygael .content .bck-ol1 li:before,
-.activitytag_verde_albaygael .cke_contents .bck-ol1 li:before,
-.activitytag_verde_albaygael .content ol li:before,
-.activitytag_verde_albaygael .cke_contents ol li:before {
+.unittag_verde_albaygael .content .bck-ol1 li:before,
+.unittag_verde_albaygael .cke_contents .bck-ol1 li:before,
+.unittag_verde_albaygael .content ol li:before,
+.unittagg_verde_albaygael .cke_contents ol li:before {
     background: #007D3D;
 }
 
 /* Caja 5 - Tag Verde */ 
-.activitytag_verde_albaygael .bck-box.bck-box5 {
+.unittag_verde_albaygael .bck-box.bck-box5 {
     border: 3px solid #007D3D;
 }
 
 
 /* Caja 6 - Tag Verde */ 
-.activitytag_verde_albaygael .bck-box.bck-box6 {
+.unittag_verde_albaygael .bck-box.bck-box6 {
     background: #007D3D;
 }
 
 /*Caja 16 - Tag Verde*/
 
-.activitytag_verde_albaygael .bck-box.bck-box16 {
+.unittag_verde_albaygael .bck-box.bck-box16 {
 	border: 2px solid #007D3D;
 }
 
@@ -632,105 +632,105 @@ a:hover, a:active, a:focus {
 
 /*Caja 1 - Tag Celeste*/
 
-.activitytag_celeste_albaygael .bck-box1 .bck-title {
+.unittag_celeste_albaygael .bck-box1 .bck-title {
     background: #00B4CA;
 }
 
-.activitytag_celeste_albaygael .bck-box1 .bck-content{
+.unittag_celeste_albaygael .bck-box1 .bck-content{
 	color: #D4E8E2;
 	-webkit-text-stroke: #00B4CA 2px;
 }
 
 /*Título 1 - Tag Celeste*/
 
-.activitytag_celeste_albaygael .bck-title1 {
+.unittag_celeste_albaygael .bck-title1 {
 	color: #D4E8E2;
 	-webkit-text-stroke: #00B4CA 2px;       
 }
 
 /*Título 4 - Tag Celeste*/
-.activitytag_celeste_albaygael .bck-title4 {
+.unittag_celeste_albaygael .bck-title4 {
 	color: #00B4CA;
 }
 
 /*Énfasis Amarillo Con Fondo - Tag Celeste*/
-.activitytag_celeste_albaygael .bck-enfasis-2 {
+.unittag_celeste_albaygael .bck-enfasis-2 {
 	background-color: #00B4CA;
 }
 
 /*Énfasis Fondo Amarillo - Tag Celeste*/
-.activitytag_celeste_albaygael .bck-enfasis-3 {
+.unittag_celeste_albaygael .bck-enfasis-3 {
 	color: #00B4CA;
 }
 
 
 /*Lista ordenada 1 - Tag Celeste*/
-.activitytag_celeste_albaygael .content .bck-ol1 li,
-.activitytag_celeste_albaygael .cke_contents .bck-ol1 li {
+.unittag_celeste_albaygael .content .bck-ol1 li,
+.unittag_celeste_albaygael .cke_contents .bck-ol1 li {
     color: #00B4CA;
 }
 
-.activitytag_celeste_albaygael .content .bck-ol1 li:before,
-.activitytag_celeste_albaygael .cke_contents .bck-ol1 li:before {
+.unittag_celeste_albaygael .content .bck-ol1 li:before,
+.unittag_celeste_albaygael .cke_contents .bck-ol1 li:before {
     background: #00B4CA;
 }
 
 /*Lista ordenada 6 - Tag Celeste*/
-.activitytag_celeste_albaygael .content .bck-ol6 li:before,
-.activitytag_celeste_albaygael .cke_contents .bck-ol6 li:before {
+.unittag_celeste_albaygael .content .bck-ol6 li:before,
+.unittag_celeste_albaygael .cke_contents .bck-ol6 li:before {
    border: 2px solid #00B4CA;
 }
 
 /*Lista ordenada 9 - Tag Celeste*/
-.activitytag_celeste_albaygael .content .bck-ol9 li:before,
-.activitytag_celeste_albaygael .cke_contents .bck-ol9 li:before {
+.unittag_celeste_albaygael .content .bck-ol9 li:before,
+.unittag_celeste_albaygael .cke_contents .bck-ol9 li:before {
    border: none;
    background: #00B4CA;
    color: #fff;
 }
 
 /* Caja 5 - Tag Celeste*/ 
-.activitytag_celeste_albaygael .bck-box.bck-box5 {
+.unittag_celeste_albaygael .bck-box.bck-box5 {
     border: 3px solid #00B4CA;
 }
 
 
 /* Caja 6 - Tag Celeste*/ 
-.activitytag_celeste_albaygael .bck-box.bck-box6 {
+.unittag_celeste_albaygael .bck-box.bck-box6 {
     background: #00B4CA;
 }
 
 /* Caja 10  - Tag Celeste*/
-.activitytag_celeste_albaygael .bck-box.bck-box10 {
+.unittag_celeste_albaygael .bck-box.bck-box10 {
 	background: #F2F9FA;
 	border: 2px solid #00B4CA;
 }
 
 /* Caja 11  - Tag Celeste*/
-.activitytag_celeste_albaygael .bck-box.bck-box11 {
+.unittag_celeste_albaygael .bck-box.bck-box11 {
     background-color: #D4ECF0;
 }
 
 
 /* Caja 14  - Tag Celeste*/
-.activitytag_celeste_albaygael .bck-box14 .bck-title {
+.unittag_celeste_albaygael .bck-box14 .bck-title {
     color: #00B4CA;
 }
 
 /*Caja 16 - Tag Celeste*/
-.activitytag_celeste_albaygael .bck-box.bck-box16 {
+.unittag_celeste_albaygael .bck-box.bck-box16 {
 	border: 2px solid #00B4CA;
 }
 
 /*Caja 20  - Tag Celeste*/
-.activitytag_celeste_albaygael .bck-box.bck-box20 {
+.unittag_celeste_albaygael .bck-box.bck-box20 {
 	background-color: #F2F9FA;
 }
 
 /*TAG UNIDAD 2 ROSA*/
 
 /*hr - Tag Rosa*/
-.activitytag_rosa_albaygael hr {
+.unittag_rosa_albaygael hr {
  border-bottom: 3px dotted #EA368E;
 }
 
@@ -738,74 +738,74 @@ a:hover, a:active, a:focus {
 
 /*Caja 1 - Tag Azul Oscuro*/
 
-.activitytag_azuloscuro_albaygael .bck-box1 .bck-title {
+.unittag_azuloscuro_albaygael .bck-box1 .bck-title {
     background: #0068AF;
 }
 
-.activitytag_azuloscuro_albaygael .bck-box1 .bck-content{
+.unittag_azuloscuro_albaygael .bck-box1 .bck-content{
 	color: #CBD3EA;
 	-webkit-text-stroke: #0068AF 2px;
 }
 
 /*Título 1 - Tag Azul Oscuro*/
 
-.activitytag_azuloscuro_albaygael .bck-title1 {
+.unittag_azuloscuro_albaygael .bck-title1 {
 	color: #CBD3EA;
 	-webkit-text-stroke: #0068AF 2px;       
 }
 
 /*Título 4 - Tag Azul Oscuro*/
-.activitytag_azuloscuro_albaygael .bck-title4 {
+.unittag_azuloscuro_albaygael .bck-title4 {
 	color: #0068AF;
 }
 
 /*Énfasis Amarillo Con Fondo - Tag Azul Oscuro*/
-.activitytag_azuloscuro_albaygael .bck-enfasis-2 {
+.unittag_azuloscuro_albaygael .bck-enfasis-2 {
 	background-color: #0068AF;
 }
 
 /*Énfasis Fondo Amarillo - Tag Azul Oscuro*/
-.activitytag_azuloscuro_albaygael .bck-enfasis-3 {
+.unittag_azuloscuro_albaygael .bck-enfasis-3 {
 	color: #0068AF;
 }
 
 /*Lista ordenada 1 - Tag Azul Oscuro*/
-.activitytag_azuloscuro_albaygael .content .bck-ol1 li,
-.activitytag_azuloscuro_albaygael .cke_contents .bck-ol1 li {
+.unittag_azuloscuro_albaygael .content .bck-ol1 li,
+.unittag_azuloscuro_albaygael .cke_contents .bck-ol1 li {
     color: #0068AF;
 }
 
-.activitytag_azuloscuro_albaygael .content .bck-ol1 li:before,
-.activitytag_azuloscuro_albaygael .cke_contents .bck-ol1 li:before {
+.unittag_azuloscuro_albaygael .content .bck-ol1 li:before,
+.unittag_azuloscuro_albaygael .cke_contents .bck-ol1 li:before {
     background: #0068AF;
 }
 
 /*Lista ordenada 6 - Tag Azul Oscuro*/
-.activitytag_azuloscuro_albaygael .content .bck-ol6 li:before,
-.activitytag_azuloscuro_albaygael .cke_contents .bck-ol6 li:before {
+.unittag_azuloscuro_albaygael .content .bck-ol6 li:before,
+.unittag_azuloscuro_albaygael .cke_contents .bck-ol6 li:before {
    border: 2px solid #0068AF;
 }
 
 /*Lista ordenada 9 - Tag Azul Oscuro*/
-.activitytag_azuloscuro_albaygael .content .bck-ol9 li:before,
-.activitytag_azuloscuro_albaygael .cke_contents .bck-ol9 li:before {
+.unittag_azuloscuro_albaygael .content .bck-ol9 li:before,
+.unittag_azuloscuro_albaygael .cke_contents .bck-ol9 li:before {
    border: 2px solid #0068AF;
    
 }
 
 /* Caja 5 - Tag Azul Oscuro*/ 
-.activitytag_azuloscuro_albaygael .bck-box.bck-box5 {
+.unittag_azuloscuro_albaygael .bck-box.bck-box5 {
     border: 3px solid #0068AF;
 }
 
 
 /* Caja 6 - Tag Azul Oscuro*/ 
-.activitytag_azuloscuro_albaygael .bck-box.bck-box6 {
+.unittag_azuloscuro_albaygael .bck-box.bck-box6 {
     background: #0068AF;
 }
 
 /* Caja 9 - Tag Azul Oscuro*/
-.activitytag_azuloscuro_albaygael .bck-box.bck-box9 {
+.unittag_azuloscuro_albaygael .bck-box.bck-box9 {
    -webkit-transform: rotate(0deg);
     -moz-transform: rotate(0deg);
     -ms-transform: rotate(0deg);
@@ -814,41 +814,41 @@ a:hover, a:active, a:focus {
 }
 
 /* Caja 10  - Tag Azul Oscuro*/
-.activitytag_azuloscuro_albaygael .bck-box.bck-box10 {
+.unittag_azuloscuro_albaygael .bck-box.bck-box10 {
 	background: #E3E7F4;
 	border: 2px solid #0068AF;
 }
 
 /* Caja 11  - Tag Azul Oscuro*/
-.activitytag_azuloscuro_albaygael .bck-box.bck-box11 {
+.unittag_azuloscuro_albaygael .bck-box.bck-box11 {
     background-color: #E3E7F4;
 }
 
 /*Caja 12  - Tag Azul Oscuro*/
-.activitytag_azuloscuro_albaygael .bck-box12 .bck-title {
+.unittag_azuloscuro_albaygael .bck-box12 .bck-title {
 	background-color: #0068AF;
 	border: 2px solid #0068AF;
         color: #fff;
 }
 
-.activitytag_azuloscuro_albaygael .bck-box12 .bck-content {
+.unittag_azuloscuro_albaygael .bck-box12 .bck-content {
 	border-bottom: 2px solid #0068AF;
 	border-left: 2px solid #0068AF;
 	border-right: 2px solid #0068AF;
 }
 
 /* Caja 14  - Tag Azul Oscuro*/
-.activitytag_azuloscuro_albaygael .bck-box14 .bck-title {
+.unittag_azuloscuro_albaygael .bck-box14 .bck-title {
     color: #0068AF;
 }
 
 /*Caja 16 - Tag Azul Oscuro*/
-.activitytag_azuloscuro_albaygael .bck-box.bck-box16 {
+.unittag_azuloscuro_albaygael .bck-box.bck-box16 {
 	border: 2px solid #0068AF;
 }
 
 /*Caja 18 - Tag Azul Oscuro*/
-.activitytag_azuloscuro_albaygael .bck-box.bck-box18 {
+.unittag_azuloscuro_albaygael .bck-box.bck-box18 {
 	background: #FFF2D1;
 	border: 2px solid  #0068AF;
 }
@@ -857,150 +857,150 @@ a:hover, a:active, a:focus {
 
 /*Caja 1 - Tag rojo*/
 
-.activitytag_rojo_albaygael .bck-box1 .bck-title {
+.unittag_rojo_albaygael .bck-box1 .bck-title {
     background:#EC2B3C;
 }
 
-.activitytag_rojo_albaygael .bck-box1 .bck-content{
+.unittag_rojo_albaygael .bck-box1 .bck-content{
 	color: #F59A89;
 	-webkit-text-stroke: #EC2B3C 2px;
 }
 
 /*Título 1 - Tag rojo*/
-.activitytag_rojo_albaygael .bck-title1 {
+.unittag_rojo_albaygael .bck-title1 {
 	color: #F59A89;
 	-webkit-text-stroke: #EC2B3C 2px;    
 }
 
 /*Título 4 - Tag rojo*/
-.activitytag_rojo_albaygael .bck-title4 {
+.unittag_rojo_albaygael .bck-title4 {
 	color: #EC2B3C;
 }
 
 /*Énfasis Amarillo Con Fondo - Tag rojo*/
-.activitytag_rojo_albaygael .bck-enfasis-2 {
+.unittag_rojo_albaygael .bck-enfasis-2 {
 	background-color: #EC2B3C;
 }
 
 /*Énfasis Fondo Amarillo - Tag rojo*/
-.activitytag_rojo_albaygael .bck-enfasis-3 {
+.unittag_rojo_albaygael .bck-enfasis-3 {
 	color: #EC2B3C;
 }
 
 /*Lista ordenada 1 - Tag rojo*/
-.activitytag_rojo_albaygael .content .bck-ol1 li,
-.activitytag_rojo_albaygael .cke_contents .bck-ol1 li {
+.unittag_rojo_albaygael .content .bck-ol1 li,
+.unittag_rojo_albaygael .cke_contents .bck-ol1 li {
     color: #EC2B3C;
 }
 
-.activitytag_rojo_albaygael .content .bck-ol1 li:before,
-.activitytag_rojo_albaygael .cke_contents .bck-ol1 li:before {
+.unittag_rojo_albaygael .content .bck-ol1 li:before,
+.unittag_rojo_albaygael .cke_contents .bck-ol1 li:before {
     background: #EC2B3C;
 }
 
 /*Lista ordenada 6 - Tag rojo*/
-.activitytag_rojo_albaygael .content .bck-ol6 li:before,
-.activitytag_rojo_albaygael .cke_contents .bck-ol6 li:before {
+.unittag_rojo_albaygael .content .bck-ol6 li:before,
+.unittag_rojo_albaygael .cke_contents .bck-ol6 li:before {
    border: 2px solid #EC2B3C;
 }
 
 /* Caja 5 - Tag rojo*/ 
-.activitytag_rojo_albaygael .bck-box.bck-box5 {
+.unittag_rojo_albaygael .bck-box.bck-box5 {
     border: 3px solid #EC2B3C;
 }
 
 
 /* Caja 6 - Tag rojo*/ 
-.activitytag_rojo_albaygael .bck-box.bck-box6 {
+.unittag_rojo_albaygael .bck-box.bck-box6 {
     background: #EC2B3C;
 }
 
 /* Caja 11  - Tag rojo*/
-.activitytag_rojo_albaygael .bck-box.bck-box11 {
+.unittag_rojo_albaygael .bck-box.bck-box11 {
     background-color: #FDE8E0;
 }
 
 /* Caja 14  - Tag rojo*/
-.activitytag_rojo_albaygael .bck-box14 .bck-title {
+.unittag_rojo_albaygael .bck-box14 .bck-title {
     color: #EC2B3C;
 }
 
 /*Caja 16 - Tag rojo*/
-.activitytag_rojo_albaygael .bck-box.bck-box16 {
+.unittag_rojo_albaygael .bck-box.bck-box16 {
 	border: 2px solid #EC2B3C;
 }
 
 /*TAG UNIDAD 5 PISTACHO*/
 
 /*Caja 1 - Tag Pistacho*/
-.activitytag_pistacho_albaygael .bck-box1 .bck-title {
+.unittag_pistacho_albaygael .bck-box1 .bck-title {
     background: #69B648;
 }
 
-.activitytag_pistacho_albaygael .bck-box1 .bck-content{
+.unittag_pistacho_albaygael .bck-box1 .bck-content{
 	color:#B3D49C;
 	-webkit-text-stroke: #69B648 2px;
 }
 
 /*Título 1 - Tag Pistacho*/
 
-.activitytag_pistacho_albaygael .bck-title1 {
+.unittag_pistacho_albaygael .bck-title1 {
 	color: #B3D49C;
 	-webkit-text-stroke: #69B648 2px;
 }
 
 /*Título 4 - Tag Pistacho*/
-.activitytag_pistacho_albaygael .bck-title4 {
+.unittag_pistacho_albaygael .bck-title4 {
 	color: #69B648;
 }
 
 /*Énfasis Amarillo Con Fondo - Tag Pistacho*/
-.activitytag_pistacho_albaygael .bck-enfasis-2 {
+.unittag_pistacho_albaygael .bck-enfasis-2 {
 	background-color: #69B648;
 }
 
 /*Énfasis Fondo Amarillo - Tag Pistacho*/
-.activitytag_pistacho_albaygael .bck-enfasis-3 {
+.unittag_pistacho_albaygael .bck-enfasis-3 {
 	color: #69B648;
 }
 
 /*Lista ordenada 1 - Tag Pistacho*/
-.activitytag_pistacho_albaygael .content .bck-ol1 li,
-.activitytag_pistacho_albaygael .cke_contents .bck-ol1 li {
+.unittag_pistacho_albaygael .content .bck-ol1 li,
+.unittag_pistacho_albaygael .cke_contents .bck-ol1 li {
     color: #69B648;
 }
 
-.activitytag_pistacho_albaygael .content .bck-ol1 li:before,
-.activitytag_pistacho_albaygael .cke_contents .bck-ol1 li:before {
+.unittag_pistacho_albaygael .content .bck-ol1 li:before,
+.unittag_pistacho_albaygael .cke_contents .bck-ol1 li:before {
     background: #69B648;
 }
 
 /*Lista ordenada 6 - Tag Pistacho*/
-.activitytag_pistacho_albaygael .content .bck-ol6 li:before,
-.activitytag_pistacho_albaygael .cke_contents .bck-ol6 li:before {
+.unittag_pistacho_albaygael .content .bck-ol6 li:before,
+.unittag_pistacho_albaygael .cke_contents .bck-ol6 li:before {
    border: 2px solid #69B648;
 }
 
 /* Caja 5 - Tag Pistacho*/ 
-.activitytag_pistacho_albaygael .bck-box.bck-box5 {
+.unittag_pistacho_albaygael .bck-box.bck-box5 {
     border: 3px solid #69B648;
 }
 
 
 /* Caja 6 - Tag Pistacho*/ 
-.activitytag_pistacho_albaygael .bck-box.bck-box6 {
+.unittag_pistacho_albaygael .bck-box.bck-box6 {
     background: #69B648;
 }
 
 /* Caja 10  - Tag Pistacho*/
-.activitytag_pistacho_albaygael .bck-box.bck-box10 {
+.unittag_pistacho_albaygael .bck-box.bck-box10 {
 	background: #EDF4E7;
 	border: 2px solid #69B648;
 }
 
 /* Caja 11  - Tag Pistacho*/
 
-.activitytag_pistacho_albaygael .bck-box11 .bck-title {
+.unittag_pistacho_albaygael .bck-box11 .bck-title {
     background-color: #fff;
     border-radius: 20px;
     padding: 10px 5px 1px 20px;
@@ -1009,33 +1009,33 @@ a:hover, a:active, a:focus {
     color: #69b648;
 }
 
-.activitytag_pistacho_albaygael .bck-box.bck-box11 {
+.unittag_pistacho_albaygael .bck-box.bck-box11 {
     background-color: #DEECD4;
 }
 
 /* Caja 14  - Tag Pistacho*/
-.activitytag_pistacho_albaygael .bck-box14 .bck-title {
+.unittag_pistacho_albaygael .bck-box14 .bck-title {
     color: #69B648;
 }
 
 /* Caja 15  - Tag Pistacho*/
-.activitytag_pistacho_albaygael .bck-box.bck-box15 {
+.unittag_pistacho_albaygael .bck-box.bck-box15 {
    border: 2.5px dotted #5EA558;
 }
 
 /*Caja 16 - Tag Pistacho*/
-.activitytag_pistacho_albaygael .bck-box.bck-box16 {
+.unittag_pistacho_albaygael .bck-box.bck-box16 {
 	border: 2px solid #69B648;
 }
 
 /*Caja 18 - Tag Pistacho*/
-.activitytag_pistacho_albaygael .bck-box.bck-box18 {
+.unittag_pistacho_albaygael .bck-box.bck-box18 {
    background: #FFF2D1;
    border: 2px solid #69B648;
 }
 
 /*Caja 20  - Tag Pistacho*/
-.activitytag_pistacho_albaygael .bck-box.bck-box20 {
+.unittag_pistacho_albaygael .bck-box.bck-box20 {
 	background-color: #EDF4E7;
        -webkit-transform: rotate(0deg);
        -moz-transform: rotate(0deg);
@@ -1047,88 +1047,88 @@ a:hover, a:active, a:focus {
 /*TAG UNIDAD 6 NARANJA*/
 
 /*Caja 1 - Tag Naranja*/
-.activitytag_naranja_albaygael .bck-box1 .bck-title {
+.unittag_naranja_albaygael .bck-box1 .bck-title {
     background: #F16C23;
 }
 
-.activitytag_naranja_albaygael .bck-box1 .bck-content{
+.unittag_naranja_albaygael .bck-box1 .bck-content{
 	color:#F9B183;
 	-webkit-text-stroke: #F16C23 2px;
 }
 
 /*Título 1 - Tag Naranja*/
-.activitytag_naranja_albaygael .bck-title1 {
+.unittag_naranja_albaygael .bck-title1 {
 	color: #F9B183;
 	-webkit-text-stroke: #F16C23 2px;
 }
 
 /*Título 4 - Tag Naranja*/
-.activitytag_naranja_albaygael .bck-title4 {
+.unittag_naranja_albaygael .bck-title4 {
 	color: #F16C23;
 }
 
 /*Énfasis Amarillo Con Fondo - Tag Naranja*/
-.activitytag_naranja_albaygael .bck-enfasis-2 {
+.unittag_naranja_albaygael .bck-enfasis-2 {
 	background-color: #F16C23;
 }
 
 /*Énfasis Fondo Amarillo - Tag Naranja*/
-.activitytag_naranja_albaygael .bck-enfasis-3 {
+.unittag_naranja_albaygael .bck-enfasis-3 {
 	color: #F16C23;
 }
 
 /*Lista ordenada 1 - Tag Naranja*/
-.activitytag_naranja_albaygael .content .bck-ol1 li,
-.activitytag_naranja_albaygael .cke_contents .bck-ol1 li {
+.unittag_naranja_albaygael .content .bck-ol1 li,
+.unittag_naranja_albaygael .cke_contents .bck-ol1 li {
     color: #F16C23;
 }
 
-.activitytag_naranja_albaygael .content .bck-ol1 li:before,
-.activitytag_naranja_albaygael .cke_contents .bck-ol1 li:before {
+.unittag_naranja_albaygael .content .bck-ol1 li:before,
+.unittag_naranja_albaygael .cke_contents .bck-ol1 li:before {
     background: #F16C23;
 }
 
 /*Lista ordenada 6 - Tag Naranja*/
-.activitytag_naranja_albaygael .content .bck-ol6 li:before,
-.activitytag_naranja_albaygael .cke_contents .bck-ol6 li:before {
+.unittag_naranja_albaygael .content .bck-ol6 li:before,
+.unittag_naranja_albaygael .cke_contents .bck-ol6 li:before {
    border: 2px solid #F16C23;
 }
 
 /* Caja 5 - Tag Naranja*/ 
-.activitytag_naranja_albaygael .bck-box.bck-box5 {
+.unittag_naranja_albaygael .bck-box.bck-box5 {
     border: 3px solid #F16C23;
 }
 
 
 /* Caja 6 - Tag Naranja*/ 
-.activitytag_naranja_albaygael .bck-box.bck-box6 {
+.unittag_naranja_albaygael .bck-box.bck-box6 {
     background: #F16C23;
 }
 
 /* Caja 10  - Tag Naranja*/
-.activitytag_naranja_albaygael .bck-box.bck-box10 {
+.unittag_naranja_albaygael .bck-box.bck-box10 {
 	background: #FEECDF;
 	border: 2px solid #F16C23;
 }
 
 /* Caja 11  - Tag Naranja*/
-.activitytag_naranja_albaygael .bck-box.bck-box11 {
+.unittag_naranja_albaygael .bck-box.bck-box11 {
     background-color: #FFF6D2;
 }
 
 /* Caja 14  - Tag Naranja*/
-.activitytag_naranja_albaygael .bck-box14 .bck-title {
+.unittag_naranja_albaygael .bck-box14 .bck-title {
     color: #F16C23;
 }
 
 /*Caja 16 - Tag Naranja*/
-.activitytag_naranja_albaygael .bck-box.bck-box16 {
+.unittag_naranja_albaygael .bck-box.bck-box16 {
 	border: 2px solid #F16C23;
 }
 
 
 /*Caja 20  - Tag Naranja*/
-.activitytag_naranja_albaygael .bck-box.bck-box20 {
+.unittag_naranja_albaygael .bck-box.bck-box20 {
 	background-color: #fff;
        -webkit-transform: rotate(0deg);
        -moz-transform: rotate(0deg);
