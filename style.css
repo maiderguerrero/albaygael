@@ -130,10 +130,26 @@
 	}
 
 	.content_type_clase_albaygael #actividad .content .header .title {
-		margin: -20px 3px 19px;
-    	background: #fff;
-    	padding: 0px;
+		margin-bottom: 30px;
+    	text-align: center;
+    	background: #FAD8E4;
+    	padding: 0;
+    	width: 100%;
+    	margin-left: 0px;
+    	margin-top: 10px;
 	}
+
+	.content_type_clase_albaygael #actividad .content .header .title:before {
+    	position: absolute;
+    	padding: 40px 20px 10px 20px;
+    	background: #EA368E;
+    	content: 'UNIDAD 2';
+    	left: 25px;
+    	font-size: 1.8rem;
+    	margin-top: -50px;
+    	color: #fff;
+    	font-family: 'Conv_Plakkaat',Sans-Serif;
+}
 
 	.content_type_clase_albaygael #actividad .content .slide-concatenate .header .title {
 		display: none;
@@ -141,13 +157,17 @@
 
 	.content_type_clase_albaygael #actividad .content .header .title h3 {
 		position: relative;
-	    display: block;
-	    width: fit-content;
-	    margin: 0;
-	    color: #00A1A8;
-	    font-size: 1.5rem;
-	    font-weight: bold;
-	    text-align: left;
+    	display: block;
+    	width: fit-content;
+    	margin: auto;
+    	font-size: 3.3rem;
+    	text-align: center;
+    	font-weight: 100;
+    	font-family: 'Conv_ChelseaMarket-Regular';
+    	color: #FAD8E4;
+    	-webkit-text-stroke: #EA368E 2px;
+    	background: #fff;
+    	padding: 5px 15px 5px 15px;
 	}
 
 	.content_type_clase_albaygael #actividad .content .seccion_rosa .header .title h3 {
