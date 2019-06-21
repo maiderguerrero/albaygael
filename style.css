@@ -2781,6 +2781,118 @@ hr {
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(133, 200, 57, 0);
 }
 
+/*QUERIES*/
+
+@media screen and (max-width: 670px) {	
+  .bck-box.bck-box1 {
+    padding: 15px 20px 5px 25px;
+}
+
+.bck-box1 .bck-content {
+    font-size: 3.5rem;
+    -webkit-text-stroke: #ea368e 1.5px;
+}
+
+.bck-box1 .bck-content .player.audio {
+    padding: 20px;
+}
+
+.bck-box1 .bck-title {
+    font-size: 1.8rem;
+}
+
+.bck-box.bck-box2 {
+    padding: 15px 20px 5px 25px;
+}
+
+.bck-box2 .bck-content {
+    font-size: 3.5rem;
+    -webkit-text-stroke: #00AC81 1.5px;
+}
+
+.bck-box2 .bck-content .player.audio {
+    padding: 20px;
+}
+
+.bck-box2 .bck-title {
+    font-size: 1.8rem;
+}
+
+}
+
+/**/
+
+@media screen and (max-width: 480px) {
+
+   .content_type_clase_albaygael #actividad .content .header .title:before {
+    padding: 30px 5px 10px 5px;
+    left: 10px;
+    font-size: 1.5rem;
+    margin-top: -40px;
+}
+
+.content_type_clase_albaygael #actividad .content .header .title h3 {
+    font-size: 2.3rem;
+    -webkit-text-stroke: #EA368E 1.5px;
+     padding: 7px;
+   
+}
+
+.content_type_clase_albaygael #actividad .content .header .title {
+	margin-top: 0px;
+}
+
+
+.bck-box.bck-box1 {
+    padding: 5px 20px 15px 25px;
+    margin-top: -40px;
+}
+
+.bck-box1 .bck-content {
+    font-size: 2.8rem;
+    -webkit-text-stroke: #ea368e 1.5px;
+}
+
+.bck-box1 .bck-content .player.audio {
+    padding: 15px;
+}
+
+.bck-box1 .bck-title {
+    font-size: 1.5rem;
+    padding-top: 20px;
+    margin-top: -5px;
+}
+
+  .bck-box.bck-box2 {
+    padding: 5px 20px 15px 25px;
+    margin-top: -40px;
+}
+
+.bck-box2 .bck-content {
+    font-size: 2.8rem;
+    -webkit-text-stroke: #00AC81 1.5px;
+}
+
+.bck-box2 .bck-content .player.audio {
+    padding: 15px;
+}
+
+.bck-box2 .bck-title {
+    font-size: 1.5rem;
+    padding-top: 20px;
+    margin-top: -5px;
+}
+
+
+.bck-box.bck-box21 {
+    left: -19.4%;
+}
+
+}
+
+/**/
+
+
 /* Slides */
 
 #actividad .workspace.multiple-choice .opcion,
