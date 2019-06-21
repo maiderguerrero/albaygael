@@ -2827,13 +2827,13 @@ hr {
    .content_type_clase_albaygael #actividad .content .header .title:before {
     padding: 30px 5px 10px 5px;
     left: 10px;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     margin-top: -40px;
 }
 
 .content_type_clase_albaygael #actividad .content .header .title h3 {
-    font-size: 2rem;
-    -webkit-text-stroke: #EA368E 1.5px;
+    font-size: 1.8rem;
+    -webkit-text-stroke: #EA368E 1px;
      padding: 7px;
    
 }
