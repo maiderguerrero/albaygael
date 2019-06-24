@@ -2670,6 +2670,7 @@ hr {
 .bck-enfasis-17 {
 	font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
 	font-size: 1.4rem;
+	-webkit-text-stroke: none;
 }
 
 /* Icons */
