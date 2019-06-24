@@ -1941,7 +1941,7 @@ a:hover, a:active, a:focus {
 	font-family: 'Conv_ChelseaMarket-Regular';
 	color: #F3A1C1;
 	font-size: 4.8rem;
-	-webkit-text-stroke: #ea368e 2px;
+	-webkit-text-stroke: #ea368e 3px;
 }
 
 .bck-box1 .bck-content .player.audio {
@@ -1975,7 +1975,7 @@ a:hover, a:active, a:focus {
 	font-family: 'Conv_ChelseaMarket-Regular';
 	color: #8ACFB8;
 	font-size: 4.8rem;
-	-webkit-text-stroke: #00AC81 2px;
+	-webkit-text-stroke: #00AC81 3px;
 }
 
 
