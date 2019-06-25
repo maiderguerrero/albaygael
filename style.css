@@ -2441,7 +2441,7 @@ a:hover, a:active, a:focus {
 
 .bck-box.bck-box25 {
     border: 3px solid #FFCF01;
-    background: #fff;
+    background: #FFCF01;
     border-radius: 50%;
     margin-bottom: 30px;
     padding: 40px;
@@ -2462,7 +2462,7 @@ a:hover, a:active, a:focus {
     margin-top: 5px;
     padding: 25px;
     height: 0;
-    background: url(images/pico_amarillo_bocadillo.png);
+    background: url(images/pico_amarillo_entero_bocadillo.png);
     background-size: contain;
     background-repeat: no-repeat;
     -moz-transform: rotate(-15deg);
@@ -2477,7 +2477,7 @@ a:hover, a:active, a:focus {
 
 .bck-box.bck-box26 {
     border: 3px solid #00AC81;
-    background: #fff;
+    background: #00AC81;
     border-radius: 50%;
     margin-bottom: 30px;
     padding: 40px;
@@ -2498,7 +2498,7 @@ a:hover, a:active, a:focus {
     border-right: none;
     border-left: none;
     height: 0;
-    background: url(images/pico_amarillo_aguamarina.png);
+    background: url(images/pico_aguamarina_entero_bocadillo);
     background-size: contain;
     background-repeat: no-repeat;
 }
