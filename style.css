@@ -2458,7 +2458,7 @@ a:hover, a:active, a:focus {
     border-right: none;
     display: block;
     position: absolute;
-    right: -19.2px;
+    right: -13.2px;
     margin-top: 5px;
     padding: 25px;
     height: 0;
@@ -2490,8 +2490,8 @@ a:hover, a:active, a:focus {
     content: '';
     display: block;
     position: absolute;
-    left: -28px;
-    margin-top: 28.5px;
+    left: -15px;
+    margin-top: 10.5px;
     padding: 30px;
     border-top: none;
     border-bottom: none;
