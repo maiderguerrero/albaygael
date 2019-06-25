@@ -2462,7 +2462,7 @@ a:hover, a:active, a:focus {
     margin-top: 5px;
     padding: 25px;
     height: 0;
-    background: url(https://admin.blinklearning.com/useruploads/r/a/123158216/activity_other_imported/pico_amarillo_bocadillo_3.png);
+    background: url(images/pico_amarillo_bocadillo.png);
     background-size: contain;
     background-repeat: no-repeat;
     -moz-transform: rotate(-15deg);
@@ -2498,7 +2498,7 @@ a:hover, a:active, a:focus {
     border-right: none;
     border-left: none;
     height: 0;
-    background: url(https://admin.blinklearning.com/useruploads/r/a/123160426/activity_other_imported/pico_amarillo_aguamarina_3.png);
+    background: url(images/pico_amarillo_aguamarina.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
