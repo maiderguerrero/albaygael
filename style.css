@@ -2452,18 +2452,26 @@ a:hover, a:active, a:focus {
 
 .bck-box.bck-box25:before {
     content: '';
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
     display: block;
     position: absolute;
-    right: -15px;
-    margin-top: 17px;
-    z-index: 10;
-    padding: 0px;
-    border-top: 25px solid transparent;
-    border-bottom: 25px solid transparent;
-    border-left: 35px solid #FFCF01;
-    border-right: none;
+    right: -19.2px;
+    margin-top: 5px;
+    padding: 25px;
     height: 0;
+    background: url(https://admin.blinklearning.com/useruploads/r/a/123158216/activity_other_imported/pico_amarillo_bocadillo_3.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    -moz-transform: rotate(-15deg);
+    -webkit-transform: rotate(-15deg);
+    -o-transform: rotate(-15deg);
+    -ms-transform: rotate(-15deg);
+    transform: rotate(-15deg);
 }
+
 
 /*Caja 26*/
 
@@ -2482,15 +2490,17 @@ a:hover, a:active, a:focus {
     content: '';
     display: block;
     position: absolute;
-    left: 0px;
-    margin-top: 17px;
-    z-index: 10;
-    padding: 0px;
-    border-top: 25px solid transparent;
-    border-bottom: 25px solid transparent;
-    border-right: 35px solid #00AC81;
+    left: -28px;
+    margin-top: 28.5px;
+    padding: 30px;
+    border-top: none;
+    border-bottom: none;
+    border-right: none;
     border-left: none;
     height: 0;
+    background: url(https://admin.blinklearning.com/useruploads/r/a/123160426/activity_other_imported/pico_amarillo_aguamarina_3.png);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 /*HR*/
