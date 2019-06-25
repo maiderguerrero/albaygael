@@ -2450,6 +2450,21 @@ a:hover, a:active, a:focus {
     font-family: 'Conv_OpenDyslexic-Regular',Sans-Serif;
 }
 
+.bck-box.bck-box25:before {
+    content: '';
+    display: block;
+    position: absolute;
+    right: -15px;
+    margin-top: 17px;
+    z-index: 10;
+    padding: 0px;
+    border-top: 25px solid transparent;
+    border-bottom: 25px solid transparent;
+    border-left: 25px solid #00AC81;
+    border-right: none;
+    height: 0;
+}
+
 /*Caja 26*/
 
 .bck-box.bck-box26 {
@@ -2467,14 +2482,14 @@ a:hover, a:active, a:focus {
     content: '';
     display: block;
     position: absolute;
-    right: -15px;
+    left: 0px;
     margin-top: 17px;
     z-index: 10;
     padding: 0px;
     border-top: 25px solid transparent;
     border-bottom: 25px solid transparent;
-    border-left: 25px solid #00AC81;
-    border-right: none;
+    border-right: 25px solid #00AC81;
+    border-left: none;
     height: 0;
 }
 
