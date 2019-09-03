@@ -568,8 +568,19 @@ a:hover, a:active, a:focus {
 
 /*SECCIONES*/
 
+/*slide_sin_titulo*/
+
 .content_type_clase_albaygael #actividad .content .slide_sin_titulo .header .title {
    display: none;
+}
+
+#actividad .carousel-inner .slide_sin_titulo .item-container {
+    background-image: none;
+    margin: 20px auto 30px;
+    padding: 0px;
+    padding-bottom: 90px;
+    position: relative;
+    z-index: 0;
 }
 
 
