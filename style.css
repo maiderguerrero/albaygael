@@ -676,6 +676,15 @@ a:hover, a:active, a:focus {
     background-image: url(images/lapiz_u0.png) !important;
 }
 
+
+/*Énfasis 17 - Tag Verde*/
+.unittag_verde_albaygael.bck-enfasis-17 {
+    font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
+    font-size: 1.4rem;
+    -webkit-text-stroke: 0px;
+    color: #007D3D;
+}
+
 /*TAG UNIDAD 1 CELESTE*/
 
 /*Título Slide - Tag Celeste*/
@@ -812,6 +821,14 @@ a:hover, a:active, a:focus {
 
 .unittag_celeste_albaygael .bck-enfasis-15:before {
     background-image: url(images/lapiz_u1.png) !important;
+}
+
+/*Énfasis 17 - Tag Celeste*/
+.unittag_celeste_albaygael.bck-enfasis-17 {
+    font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
+    font-size: 1.4rem;
+    -webkit-text-stroke: 0px;
+    color: #00b4ca;
 }
 
 /*TAG UNIDAD 2 ROSA*/
@@ -975,6 +992,14 @@ a:hover, a:active, a:focus {
     background-image: url(images/lapiz_u3.png) !important;
 }
 
+/*Énfasis 17 - Tag Azul Oscuro*/
+.unittag_azuloscuro_albaygael .bck-enfasis-17 {
+    font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
+    font-size: 1.4rem;
+    -webkit-text-stroke: 0px;
+    color: #0068AF;
+}
+
 
 /*TAG UNIDAD 4  ROJO*/
 
@@ -1086,6 +1111,14 @@ a:hover, a:active, a:focus {
 /*Énfasis 15 - Tag Rojo*/
 .unittag_rojo_albaygael .bck-enfasis-15:before {
     background-image: url(images/lapiz_u4.png) !important;
+}
+
+/*Énfasis 17 - Tag Rojo*/
+.unittag_rojo_albaygael .bck-enfasis-17 {
+    font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
+    font-size: 1.4rem;
+    -webkit-text-stroke: 0px;
+    color: #EC2B3C;
 }
 
 /*TAG UNIDAD 5 PISTACHO*/
@@ -1237,6 +1270,13 @@ a:hover, a:active, a:focus {
     background-image: url(images/lapiz_u5.png) !important;
 }
 
+/*Énfasis 17 - Tag Rojo*/
+.unittag_pistacho_albaygael .bck-enfasis-17 {
+    font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
+    font-size: 1.4rem;
+    -webkit-text-stroke: 0px;
+    color: #69B648;
+}
 
 /*TAG UNIDAD 6 NARANJA*/
 
@@ -1365,6 +1405,13 @@ a:hover, a:active, a:focus {
     background-image: url(images/lapiz_u6.png) !important;
 }
 
+/*Énfasis 17 - Tag Naranja*/
+.unittag_naranja_albaygael .bck-enfasis-17 {
+    font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
+    font-size: 1.4rem;
+    -webkit-text-stroke: 0px;
+    color: #F16C23;
+}
 
 /*TAGS WB*/
 
