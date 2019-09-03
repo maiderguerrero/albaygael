@@ -811,7 +811,7 @@ a:hover, a:active, a:focus {
 /*Énfasis 15 - Tag Celeste*/
 
 .unittag_celeste_albaygael .bck-enfasis-15:before {
-    background-image: url(images/lapiz_u1.png);
+    background-image: url(images/lapiz_u1.png) !important;
 }
 
 /*TAG UNIDAD 2 ROSA*/
@@ -972,7 +972,7 @@ a:hover, a:active, a:focus {
 
 /*Énfasis 15 - Tag Azul Oscuro*/
 .unittag_azuloscuro_albaygael .bck-enfasis-15:before {
-    background-image: url(images/lapiz_u3.png);
+    background-image: url(images/lapiz_u3.png) !important;
 }
 
 
@@ -1085,7 +1085,7 @@ a:hover, a:active, a:focus {
 
 /*Énfasis 15 - Tag Rojo*/
 .unittag_rojo_albaygael .bck-enfasis-15:before {
-    background-image: url(images/lapiz_u4.png);
+    background-image: url(images/lapiz_u4.png) !important;
 }
 
 /*TAG UNIDAD 5 PISTACHO*/
@@ -1234,7 +1234,7 @@ a:hover, a:active, a:focus {
 
 /*Énfasis 15 - Tag Pistacho*/
 .unittag_pistacho_albaygael .bck-enfasis-15:before {
-    background-image: url(images/lapiz_u5.png);
+    background-image: url(images/lapiz_u5.png) !important;
 }
 
 
@@ -1362,7 +1362,7 @@ a:hover, a:active, a:focus {
 
 /*Énfasis 15 - Tag Naranja*/
 .unittag_naranja_albaygael .bck-enfasis-15:before {
-    background-image: url(images/lapiz_u6.png);
+    background-image: url(images/lapiz_u6.png) !important;
 }
 
 
