@@ -671,6 +671,34 @@ a:hover, a:active, a:focus {
 
 /*TAG UNIDAD 1 CELESTE*/
 
+/*Título Slide - Tag Celeste*/
+
+.unittag_celeste_albaygael #actividad .content .header .title {
+     background: #98D4E1;
+}
+
+.unittag_celeste_albaygael #actividad .content .header .title:before {
+    background: #00B4CA;
+    content: 'UNIDAD 1'; 
+}
+
+.unittag_celeste_albaygael #actividad .content .header .title h3 {
+    color: #98D4E1;
+    -webkit-text-stroke: #00B4CA 2px;
+}
+
+/*HR - Tag Celeste*/
+
+.unittag_celeste_albaygael hr {
+    border-bottom: 3px dotted #00B4CA;
+}
+
+/*Tabla 1 - Tag Celeste*/
+
+.unittag_celeste_albaygael .table-1 {
+    color: #00B4CA;
+}
+
 /*Caja 1 - Tag Celeste*/
 
 .unittag_celeste_albaygael .bck-box1 .bck-title {
@@ -741,6 +769,11 @@ a:hover, a:active, a:focus {
     background: #00B4CA;
 }
 
+/*Caja 7 - Tag Celeste*/
+.unittag_celeste_albaygael .bck-box.bck-box7 {
+    background: #00B4CA;
+}
+
 /* Caja 10  - Tag Celeste*/
 .unittag_celeste_albaygael .bck-box.bck-box10 {
 	background: #F2F9FA;
@@ -768,6 +801,12 @@ a:hover, a:active, a:focus {
 	background-color: #F2F9FA;
 }
 
+/*Énfasis 15 - Tag Celeste*/
+
+.unittag_celeste_albaygael .bck-enfasis-15:before {
+    background-image: url(images/lapiz_u1.png);
+}
+
 /*TAG UNIDAD 2 ROSA*/
 
 /*hr - Tag Rosa*/
@@ -776,6 +815,31 @@ a:hover, a:active, a:focus {
 }
 
 /*TAG UNIDAD 3 AZUL OSCURO*/
+
+/*Título slide - Tag Azul Oscuro*/
+.unittag_azuloscuro_albaygael #actividad .content .header .title {
+     background: #89A1D0;
+}
+
+.unittag_azuloscuro_albaygael #actividad .content .header .title:before {
+    background: #0068AF;
+    content: 'UNIDAD 1'; 
+}
+
+.unittag_azuloscuro_albaygael #actividad .content .header .title h3 {
+    color: #89A1D0;
+    -webkit-text-stroke: #0068AF 2px;
+}
+
+/*HR - Tag Azul Oscuro*/
+.unittag_azuloscuro_albaygael hr {
+    border-bottom: 3px dotted #0068AF;
+}
+
+/*Tabla 1 - Tag Azul Oscuro*/
+.unittag_azuloscuro_albaygael .table-1 {
+    color: #0068AF;
+}
 
 /*Caja 1 - Tag Azul Oscuro*/
 
@@ -845,6 +909,11 @@ a:hover, a:active, a:focus {
     background: #0068AF;
 }
 
+/*Caja 7 - Tag Azul Oscuro*/
+.unittag_azuloscuro_albaygael .bck-box.bck-box7 {
+    background: #0068AF;
+}
+
 /* Caja 9 - Tag Azul Oscuro*/
 .unittag_azuloscuro_albaygael .bck-box.bck-box9 {
    -webkit-transform: rotate(0deg);
@@ -894,7 +963,39 @@ a:hover, a:active, a:focus {
 	border: 2px solid  #0068AF;
 }
 
+/*Énfasis 15 - Tag Azul Oscuro*/
+.unittag_azuloscuro_albaygael .bck-enfasis-15:before {
+    background-image: url(images/lapiz_u3.png);
+}
+
+
 /*TAG UNIDAD 4  ROJO*/
+
+/*Título slide - Tag Rojo*/
+.unittag_rojo_albaygael #actividad .content .header .title {
+     background: #F59A89;
+}
+
+.unittag_rojo_albaygael #actividad .content .header .title:before {
+    background: #EC2B3C;
+    content: 'UNIDAD 1'; 
+}
+
+.unittag_rojo_albaygael #actividad .content .header .title h3 {
+    color: #F59A89;
+    -webkit-text-stroke: #EC2B3C 2px;
+}
+
+/*HR - Tag Rojo*/
+.unittag_rojo_albaygael hr {
+    border-bottom: 3px dotted #EC2B3C;
+}
+
+/*Tabla 1 - Tag Rojo*/
+.unittag_rojo_albaygael .table-1 {
+    color: #EC2B3C;
+}
+
 
 /*Caja 1 - Tag rojo*/
 
@@ -950,9 +1051,13 @@ a:hover, a:active, a:focus {
     border: 3px solid #EC2B3C;
 }
 
-
 /* Caja 6 - Tag rojo*/ 
 .unittag_rojo_albaygael .bck-box.bck-box6 {
+    background: #EC2B3C;
+}
+
+/*Caja 7 - Tag Rojo*/
+.unittag_rojo_albaygael .bck-box.bck-box7 {
     background: #EC2B3C;
 }
 
@@ -971,7 +1076,38 @@ a:hover, a:active, a:focus {
 	border: 2px solid #EC2B3C;
 }
 
+/*Énfasis 15 - Tag Rojo*/
+.unittag_rojo_albaygael .bck-enfasis-15:before {
+    background-image: url(images/lapiz_u4.png);
+}
+
 /*TAG UNIDAD 5 PISTACHO*/
+
+/*Título slide - Tag Pistacho*/
+.unittag_pistacho_albaygael #actividad .content .header .title {
+     background: #B3D49C;
+}
+
+.unittag_pistacho_albaygael #actividad .content .header .title:before {
+    background: #69B648;
+    content: 'UNIDAD 1'; 
+}
+
+.unittag_pistacho_albaygael #actividad .content .header .title h3 {
+    color: #B3D49C;
+    -webkit-text-stroke: #69B648 2px;
+}
+
+/*HR - Tag Pistacho*/
+.unittag_pistacho_albaygael hr {
+    border-bottom: 3px dotted #69B648;
+}
+
+/*Tabla 1 - Tag Pistacho*/
+.unittag_pistacho_albaygael .table-1 {
+    color: #69B648;
+}
+
 
 /*Caja 1 - Tag Pistacho*/
 .unittag_pistacho_albaygael .bck-box1 .bck-title {
@@ -1033,6 +1169,11 @@ a:hover, a:active, a:focus {
     background: #69B648;
 }
 
+/*Caja 7 - Tag Pistacho*/
+.unittag_pistacho_albaygael .bck-box.bck-box7 {
+    background: #69B648;
+}
+
 /* Caja 10  - Tag Pistacho*/
 .unittag_pistacho_albaygael .bck-box.bck-box10 {
 	background: #EDF4E7;
@@ -1084,8 +1225,38 @@ a:hover, a:active, a:focus {
         transform: rotate(0deg);
 }
 
+/*Énfasis 15 - Tag Pistacho*/
+.unittag_pistacho_albaygael .bck-enfasis-15:before {
+    background-image: url(images/lapiz_u5.png);
+}
+
 
 /*TAG UNIDAD 6 NARANJA*/
+
+/*Título slide - Tag Naranja*/
+.unittag_naranja_albaygael #actividad .content .header .title {
+     background: #F9B183;
+}
+
+.unittag_naranja_albaygael #actividad .content .header .title:before {
+    background: #F16C23;
+    content: 'UNIDAD 1'; 
+}
+
+.unittag_naranja_albaygael #actividad .content .header .title h3 {
+    color: #F9B183;
+    -webkit-text-stroke: #F16C23 2px;
+}
+
+/*HR - Tag Naranja*/
+.unittag_naranja_albaygael hr {
+    border-bottom: 3px dotted #F16C23;
+}
+
+/*Tabla 1 - Tag Naranja*/
+.unittag_naranja_albaygael .table-1 {
+    color: #F16C23;
+}
 
 /*Caja 1 - Tag Naranja*/
 .unittag_naranja_albaygael .bck-box1 .bck-title {
@@ -1146,6 +1317,11 @@ a:hover, a:active, a:focus {
     background: #F16C23;
 }
 
+/*Caja 7 - Tag Naranja*/
+.unittag_naranja_albaygael .bck-box.bck-box7 {
+    background: #F16C23;
+}
+
 /* Caja 10  - Tag Naranja*/
 .unittag_naranja_albaygael .bck-box.bck-box10 {
 	background: #FEECDF;
@@ -1176,6 +1352,12 @@ a:hover, a:active, a:focus {
        -ms-transform: rotate(0deg);
         transform: rotate(0deg);
 }
+
+/*Énfasis 15 - Tag Naranja*/
+.unittag_naranja_albaygael .bck-enfasis-15:before {
+    background-image: url(images/lapiz_u6.png);
+}
+
 
 /*TAGS WB*/
 .unittag_unidad2_wb #actividad .content .header .title {
