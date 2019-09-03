@@ -1367,22 +1367,132 @@ a:hover, a:active, a:focus {
 
 
 /*TAGS WB*/
-.unittag_unidad2_wb #actividad .content .header .title {
+
+/*Unit 0 - Tag WB*/
+
+.unittag_unidad0_wb_albaygael #actividad .content .header .title {
 	background: #CFEADF; 
 }
 
- .unittag_unidad2_wb #actividad .content .header .title h3 {
+ .unittag_unidad0_wb_albaygael #actividad .content .header .title h3 {
 	background: #cfeadf;
 }
 
-.unittag_unidad2_wb #actividad .content .header .title:before {
-	    background: #00AC81;
+.unittag_unidad0_wb_albaygael #actividad .content .header .title:before {
+	 background: #00AC81;
+	  content: 'UNIDAD 0';
 }
-
-/*Tabla Tag WB*/
-.unittag_unidad2_wb .table-1 {
+.unittag_unidad0_wb_albaygael .table-1 {
     color: #00AC81;
 }
+
+/*Unit 1 - Tag WB*/
+
+.unittag_unidad1_wb_albaygael #actividad .content .header .title {
+	background: #CFEADF; 
+}
+
+ .unittag_unidad1_wb_albaygael #actividad .content .header .title h3 {
+	background: #cfeadf;
+}
+
+.unittag_unidad1_wb_albaygael #actividad .content .header .title:before {
+	 background: #00AC81;
+	  content: 'UNIDAD 1';
+}
+.unittag_unidad1_wb_albaygael .table-1 {
+    color: #00AC81;
+}
+
+/*Unit 2 - Tag WB*/
+
+.unittag_unidad0_wb_albaygael #actividad .content .header .title {
+	background: #CFEADF; 
+}
+
+ .unittag_unidad0_wb_albaygael #actividad .content .header .title h3 {
+	background: #cfeadf;
+}
+
+.unittag_unidad0_wb_albaygael #actividad .content .header .title:before {
+	 background: #00AC81;
+}
+.unittag_unidad0_wb_albaygael .table-1 {
+    color: #00AC81;
+}
+
+/*Unit 3 - Tag WB*/
+
+.unittag_unidad3_wb_albaygael #actividad .content .header .title {
+	background: #CFEADF; 
+}
+
+ .unittag_unidad3_wb_albaygael #actividad .content .header .title h3 {
+	background: #cfeadf;
+}
+
+.unittag_unidad3_wb_albaygael #actividad .content .header .title:before {
+	 background: #00AC81;
+	  content: 'UNIDAD 0';
+}
+.unittag_unidad3_wb_albaygael .table-1 {
+    color: #00AC81;
+}
+
+/*Unit 4 - Tag WB*/
+
+.unittag_unidad4_wb_albaygael #actividad .content .header .title {
+	background: #CFEADF; 
+}
+
+ .unittag_unidad4_wb_albaygael #actividad .content .header .title h3 {
+	background: #cfeadf;
+}
+
+.unittag_unidad4_wb_albaygael #actividad .content .header .title:before {
+	 background: #00AC81;
+	  content: 'UNIDAD 4';
+}
+.unittag_unidad4_wb_albaygael .table-1 {
+    color: #00AC81;
+}
+
+/*Unit 5 - Tag WB*/
+
+.unittag_unidad5_wb_albaygael #actividad .content .header .title {
+	background: #CFEADF; 
+}
+
+ .unittag_unidad5_wb_albaygael #actividad .content .header .title h3 {
+	background: #cfeadf;
+}
+
+.unittag_unidad5_wb_albaygael #actividad .content .header .title:before {
+	 background: #00AC81;
+	  content: 'UNIDAD 5';
+}
+.unittag_unidad5_wb_albaygael .table-1 {
+    color: #00AC81;
+}
+
+/*Unit 6 - Tag WB*/
+
+.unittag_unidad6_wb_albaygael #actividad .content .header .title {
+	background: #CFEADF; 
+}
+
+ .unittag_unidad6_wb_albaygael #actividad .content .header .title h3 {
+	background: #cfeadf;
+}
+
+.unittag_unidad6_wb_albaygael #actividad .content .header .title:before {
+	 background: #00AC81;
+	  content: 'UNIDAD 6';
+}
+.unittag_unidad6_wb_albaygael .table-1 {
+    color: #00AC81;
+}
+
 
 /*TÍTULOS*/
 
