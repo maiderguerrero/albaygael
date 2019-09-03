@@ -579,6 +579,35 @@ a:hover, a:active, a:focus {
 
 /*TAG UNIDAD 0 VERDE*/
 
+/*Título slide - Tag Verde*/
+
+.unittag_verde_albaygael #actividad .content .header .title {
+     background: #C7D9C8;
+}
+
+.unittag_verde_albaygael #actividad .content .header .title:before {
+    background: #007D3D;
+    content: 'UNIDAD 0'; 
+}
+
+.unittag_verde_albaygael #actividad .content .header .title h3 {
+    color: #C7D7A5;
+    -webkit-text-stroke: #007D3D 2px;
+}
+
+/*HR - Tag Verde*/
+
+.unittag_verde_albaygael hr {
+    border-bottom: 3px dotted #007D3D;
+}
+
+/*Tabla 1 - Tag Verde*/
+
+.unittag_verde_albaygael .table-1 {
+    color: #007D3D;
+}
+
+
 /*Caja 1 - Tag Verde*/
 
 .unittag_verde_albaygael .bck-box1 .bck-title {
@@ -618,9 +647,13 @@ a:hover, a:active, a:focus {
     border: 3px solid #007D3D;
 }
 
-
 /* Caja 6 - Tag Verde */ 
 .unittag_verde_albaygael .bck-box.bck-box6 {
+    background: #007D3D;
+}
+
+/* Caja 7 - Tag Verde */
+.unittag_verde_albaygael .bck-box.bck-box7 {
     background: #007D3D;
 }
 
@@ -628,6 +661,12 @@ a:hover, a:active, a:focus {
 
 .unittag_verde_albaygael .bck-box.bck-box16 {
 	border: 2px solid #007D3D;
+}
+
+/*Énfasis 15 - Tag Verde*/
+
+.unittag_verde_albaygael .bck-enfasis-15:before {
+    background-image: url(images/lapiz_u0.png);
 }
 
 /*TAG UNIDAD 1 CELESTE*/
