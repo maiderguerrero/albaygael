@@ -629,16 +629,12 @@ a:hover, a:active, a:focus {
 /*Lista ordenada 1 - Tag Verde*/
 
 .unittag_verde_albaygael .content .bck-ol1 li,
-.unittag_verde_albaygael .cke_contents .bck-ol1 li,
-.unittag_verde_albaygael .content ol li,
-.unittag_verde_albaygael .cke_contents ol li {
+.unittag_verde_albaygael .cke_contents .bck-ol1 li {
     color: #007D3D;
 }
 
 .unittag_verde_albaygael .content .bck-ol1 li:before,
-.unittag_verde_albaygael .cke_contents .bck-ol1 li:before,
-.unittag_verde_albaygael .content ol li:before,
-.unittagg_verde_albaygael .cke_contents ol li:before {
+.unittag_verde_albaygael .cke_contents .bck-ol1 li:before {
     background: #007D3D;
 }
 
