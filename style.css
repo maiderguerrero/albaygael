@@ -678,10 +678,8 @@ a:hover, a:active, a:focus {
 
 
 /*Énfasis 17 - Tag Verde*/
-.unittag_verde_albaygael.bck-enfasis-17 {
-    font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
-    font-size: 1.4rem;
-    -webkit-text-stroke: 0px;
+.unittag_verde_albaygael .bck-enfasis-17 {
+
     color: #007D3D;
 }
 
@@ -824,10 +822,7 @@ a:hover, a:active, a:focus {
 }
 
 /*Énfasis 17 - Tag Celeste*/
-.unittag_celeste_albaygael.bck-enfasis-17 {
-    font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
-    font-size: 1.4rem;
-    -webkit-text-stroke: 0px;
+.unittag_celeste_albaygael .bck-enfasis-17 {
     color: #00b4ca;
 }
 
@@ -994,9 +989,6 @@ a:hover, a:active, a:focus {
 
 /*Énfasis 17 - Tag Azul Oscuro*/
 .unittag_azuloscuro_albaygael .bck-enfasis-17 {
-    font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
-    font-size: 1.4rem;
-    -webkit-text-stroke: 0px;
     color: #0068AF;
 }
 
@@ -1115,9 +1107,6 @@ a:hover, a:active, a:focus {
 
 /*Énfasis 17 - Tag Rojo*/
 .unittag_rojo_albaygael .bck-enfasis-17 {
-    font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
-    font-size: 1.4rem;
-    -webkit-text-stroke: 0px;
     color: #EC2B3C;
 }
 
@@ -1272,9 +1261,6 @@ a:hover, a:active, a:focus {
 
 /*Énfasis 17 - Tag Rojo*/
 .unittag_pistacho_albaygael .bck-enfasis-17 {
-    font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
-    font-size: 1.4rem;
-    -webkit-text-stroke: 0px;
     color: #69B648;
 }
 
@@ -1406,10 +1392,7 @@ a:hover, a:active, a:focus {
 }
 
 /*Énfasis 17 - Tag Naranja*/
-.unittag_naranja_albaygael .bck-enfasis-17 {
-    font-family: 'Conv_AndikaNewBasic-Bold',Sans-Serif;
-    font-size: 1.4rem;
-    -webkit-text-stroke: 0px;
+.unittag_naranja_albaygael .bck-enfasis-17  {
     color: #F16C23;
 }
 
