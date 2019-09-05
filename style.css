@@ -1101,6 +1101,11 @@ a:hover, a:active, a:focus {
     background: #EC2B3C;
 }
 
+/*Caja 8 - Tag Rojo*/
+.unittag_rojo_albaygael .bck-box.bck-box8 {
+	background: #ec2b3c;
+}
+
 /* Caja 11  - Tag rojo*/
 .unittag_rojo_albaygael .bck-box.bck-box11 {
     background-color: #FDE8E0;
@@ -1354,6 +1359,22 @@ a:hover, a:active, a:focus {
 .unittag_naranja_albaygael .cke_contents .bck-ol6 li:before {
    border: 2px solid #F16C23;
 }
+
+/*Lista desordenada 3 - Tag Naranja*/
+
+.unittag_naranja_albaygael .texto_curso .bck-ul3 li, 
+.unittag_naranja_albaygael .workspace .bck-ul3 li ul li, 
+.unittag_naranja_albaygael .cke_contents .bck-ul3 li {
+    color: #F16C23;
+}
+
+
+.unittag_naranja_albaygael .texto_curso .bck-ul3 li:before, 
+.unittag_naranja_albaygael .workspace .bck-ul3 li ul li:before, 
+.unittag_naranja_albaygael .cke_contents .bck-ul3 li:before {
+	background-color: #f16c23;
+}
+
 
 /* Caja 5 - Tag Naranja*/ 
 .unittag_naranja_albaygael .bck-box.bck-box5 {
