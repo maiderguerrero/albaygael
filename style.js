@@ -1,15 +1,15 @@
 (function (blink) {
 	'use strict';
 
-	var albaygaelStyle = function () {
+	var imactivademoStyle = function () {
 			blink.theme.styles.basic.apply(this, arguments);
 		},
 		page = blink.currentPage;
 
-	albaygaelStyle.prototype = {
-		bodyClassName: 'content_type_clase_albaygael',
+	imactivademoStyle.prototype = {
+		bodyClassName: 'content_type_clase_imactivademo',
 		ckEditorStyles: {
-			name: 'albaygael',
+			name: 'imactivademo',
 			styles: [
 
 				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title bck-title1'} },
@@ -186,8 +186,8 @@
 		}
 	};
 
-	albaygaelStyle.prototype = _.extend({}, new blink.theme.styles.basic(), albaygaelStyle.prototype);
+	imactivademoStyle.prototype = _.extend({}, new blink.theme.styles.basic(), imactivademoStyle.prototype);
 
-	blink.theme.styles.albaygael = albaygaelStyle;
+	blink.theme.styles.imactivademo = imactivademoStyle;
 
 })( blink );
